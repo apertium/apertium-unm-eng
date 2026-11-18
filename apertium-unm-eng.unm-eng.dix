@@ -96,10 +96,481 @@
   </sdefs>
 
    <section id="main" type="standard">
-      <!-- Define entries within <e> here. -->
-      <!-- example:
-           <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
-      -->
+
+<e><l>kati<b/><s n="vaux"/></l><r>almost<s n="vbmod"/></r></e>
+<e><l>kata<b/><s n="vaux"/></l><r>want<b/>to<s n="vbmod"/></r></e>
+<e><l>shinki<b/><s n="vaux"/></l><r>dislike<s n="vbmod"/></r></e>
+<e><l>shinki<b/><s n="vaux"/></l><r>hate<b/>to<s n="vbmod"/></r></e>
+<e><l>alemi<b/><s n="vaux"/></l><r>begin<s n="vbmod"/></r></e>
+<e><l>tala<b/><s n="vaux"/></l><r>cannot<s n="vbmod"/></r></e>
+<e><l>tala<b/><s n="vaux"/></l><r>be<b/>unable<b/>to<s n="vbmod"/></r></e>
+<e><l>kàski<b/><s n="vaux"/></l><r>can<s n="vbmod"/></r></e>
+<e><l>kàski<b/><s n="vaux"/></l><r>be<b/>able<b/>to<s n="vbmod"/></r></e>
+<e><l>kìshi<b/><s n="vaux"/></l><r>finish<s n="vbmod"/></r></e>
+<e><l>ahas<s n="n"/><s n="aa"/></l><r>crow<s n="n"/></r></e>
+<e><l>tëme<s n="n"/><s n="aa"/></l><r>wolf<s n="n"/></r></e>
+<e><l>maxkw<s n="n"/><s n="aa"/></l><r>bear<s n="n"/></r></e>
+<e><l>aihàm<s n="n"/><s n="aa"/></l><r>golden<b/>eagle<s n="n"/></r></e>
+<e><l>ketukw<s n="n"/><s n="aa"/></l><r>knee<s n="n"/></r></e>
+<e><l>chahkol<s n="n"/><s n="aa"/></l><r>frog<s n="n"/></r></e>
+<e><l>chulëns<s n="n"/><s n="aa"/></l><r>bird<s n="n"/></r></e>
+<e><l>mwekane<s n="n"/><s n="aa"/></l><r>dog<s n="n"/></r></e>
+<e><l>mwekanètët<s n="n"/><s n="aa"/></l><r>puppy<s n="n"/></r></e>
+<e><l>xanikw<s n="n"/><s n="aa"/></l><r>squirrel<s n="n"/></r></e>
+<e><l>chinkwe<s n="n"/><s n="aa"/></l><r>bobcat<s n="n"/></r></e>
+<e><l>shkakw<s n="n"/><s n="aa"/></l><r>skunk<s n="n"/></r></e>
+<e><l>opalaniye<s n="n"/><s n="aa"/></l><r>bald<b/>eagle<s n="n"/></r></e>
+<e><l>maxkalaniyat<s n="n"/><s n="aa"/></l><r>hawk<s n="n"/></r></e>
+<e><l>awèn<s n="n"/><s n="aa"/></l><r>person<s n="n"/></r></e>
+<e><l>hìtukw<s n="n"/><s n="aa"/></l><r>tree<s n="n"/></r></e>
+<e><l>xkwe<s n="n"/><s n="aa"/></l><r>woman<s n="n"/></r></e>
+<e><l>xkwechëch<s n="n"/><s n="aa"/></l><r>girl<s n="n"/></r></e>
+<e><l>pilaechëch<s n="n"/><s n="aa"/></l><r>boy<s n="n"/></r></e>
+<e><l>utènay<s n="n"/><s n="aa"/></l><r>town<s n="n"/></r></e>
+<e><l>hopënis<s n="n"/><s n="aa"/></l><r>potato<s n="n"/></r></e>
+<e><l>ila<s n="n"/><s n="aa"/></l><r>warrior<s n="n"/></r></e>
+<e><l>lënu<s n="n"/><s n="aa"/></l><r>man<s n="n"/></r></e>
+<e><l>sisawin<s n="n"/><s n="aa"/></l><r>oyster<s n="n"/></r></e>
+<e><l>mësinkw<s n="n"/><s n="aa"/></l><r>Game<b/>Spirit<s n="n"/></r></e>
+<e><l>mësinkw<s n="n"/><s n="aa"/></l><r>False<b/>Face<s n="n"/></r></e>
+<e><l>hilusës<s n="n"/><s n="aa"/></l><r>old<b/>man<s n="n"/></r></e>
+<e><l>manëtu<s n="n"/><s n="aa"/></l><r>Spirit<s n="n"/></r></e>
+<e><l>mimëns<s n="n"/><s n="aa"/></l><r>child<s n="n"/></r></e>
+<e><l>mimëntët<s n="n"/><s n="aa"/></l><r>baby<s n="n"/></r></e>
+<e><l>sakima<s n="n"/><s n="aa"/></l><r>chief<s n="n"/></r></e>
+<e><l>nehënaonkès<s n="n"/><s n="aa"/></l><r>horse<s n="n"/></r></e>
+<e><l>kawiya<s n="n"/><s n="aa"/></l><r>porcupine<s n="n"/></r></e>
+<e><l>shëwanàkw<s n="n"/><s n="aa"/></l><r>white<b/>person<s n="n"/></r></e>
+<e><l>kèhkitënikèt<s n="n"/><s n="aa"/></l><r>doctor<s n="n"/></r></e>
+<e><l>welathakèt<s n="n"/><s n="aa"/></l><r>doctor<s n="n"/></r></e>
+<e><l>tënte-tëpchehëlas<s n="n"/><s n="aa"/></l><r>train<s n="n"/></r></e>
+<e><l>kèhkëlixikèt<s n="n"/><s n="aa"/></l><r>seamstress<s n="n"/></r></e>
+<e><l>mèxèlkatèlis<s n="n"/><s n="aa"/></l><r>water<b/>strider<s n="n"/></r></e>
+<e><l>èhës<s n="n"/><s n="aa"/></l><r>clam<s n="n"/></r></e>
+<e><l>xkuk<s n="n"/><s n="aa"/></l><r>snake<s n="n"/></r></e>
+<e><l>mikwën<s n="n"/><s n="aa"/></l><r>feather<s n="n"/></r></e>
+<e><l>xès<s n="n"/><s n="aa"/></l><r>skin<s n="n"/></r></e>
+<e><l>pèhpichkwik<s n="n"/><s n="aa"/></l><r>carrot<s n="n"/></r></e>
+<e><l>òhtas<s n="n"/><s n="aa"/></l><r>doll<s n="n"/></r></e>
+<e><l>tipas<s n="n"/><s n="aa"/></l><r>chicken<s n="n"/></r></e>
+<e><l>kahes<s n="n"/><s n="nn"/></l><r>mother<s n="n"/></r></e>
+<e><l>ux<s n="n"/><s n="nn"/></l><r>father<s n="n"/></r></e>
+<e><l>kwis<s n="n"/><s n="nn"/></l><r>son<s n="n"/></r></e>
+<e><l>ichan<s n="n"/><s n="nn"/></l><r>daughter<s n="n"/></r></e>
+<e><l>uhem<s n="n"/><s n="nn"/></l><r>grandmother<s n="n"/></r></e>
+<e><l>mëxumes<s n="n"/><s n="nn"/></l><r>grandfather<s n="n"/></r></e>
+<e><l>mis<s n="n"/><s n="nn"/></l><r>older<b/>sister<s n="n"/></r></e>
+<e><l>xans<s n="n"/><s n="nn"/></l><r>older<b/>brother<s n="n"/></r></e>
+<e><l>xisëmës<s n="n"/><s n="nn"/></l><r>younger<b/>sister<s n="n"/></r></e>
+<e><l>xisëmës<s n="n"/><s n="nn"/></l><r>brother<s n="n"/></r></e>
+<e><l>xisëmës<s n="n"/><s n="nn"/></l><r>cousin<s n="n"/></r></e>
+<e><l>itis<s n="n"/><s n="nn"/></l><r>friend<s n="n"/></r></e>
+<e><l>wëlamàls<s n="v"/><s n="iv"/><s n="aa"/></l><r>feel<b/>well<s n="vblex"/></r></e>
+<e><l>tixëm<s n="v"/><s n="iv"/><s n="aa"/></l><r>bathe<s n="vblex"/></r></e>
+<e><l>alam<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>frightened<s n="vblex"/></r></e>
+<e><l>alam<s n="v"/><s n="iv"/><s n="aa"/></l><r>scared"<b/>"корк<s n="vblex"/></r></e>
+<e><l>wishas<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>frightened<s n="vblex"/></r></e>
+<e><l>wishas<s n="v"/><s n="iv"/><s n="aa"/></l><r>startled"<b/>"чочу<s n="vblex"/></r></e>
+<e><l>mikentam<s n="v"/><s n="iv"/><s n="aa"/></l><r>do<s n="vblex"/></r></e>
+<e><l>pils<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>clean<s n="vblex"/></r></e>
+<e><l>pals<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>sick<s n="vblex"/></r></e>
+<e><l>wikwihel<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>tired<s n="vblex"/></r></e>
+<e><l>kes<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>hot<s n="vblex"/></r></e>
+<e><l>akohch<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>cold<s n="vblex"/></r></e>
+<e><l>alëmsk<s n="v"/><s n="iv"/><s n="aa"/></l><r>leave<s n="vblex"/></r></e>
+<e><l>alëmsk<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>away<s n="vblex"/></r></e>
+<e><l>alëmsk<s n="v"/><s n="iv"/><s n="aa"/></l><r>depart<s n="vblex"/></r></e>
+<e><l>alëmsk<s n="v"/><s n="iv"/><s n="aa"/></l><r>set<b/>out<s n="vblex"/></r></e>
+<e><l>machi<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>home<s n="vblex"/></r></e>
+<e><l>asu<s n="v"/><s n="iv"/><s n="aa"/></l><r>sing<s n="vblex"/></r></e>
+<e><l>puhenema<s n="v"/><s n="iv"/><s n="aa"/></l><r>drum<s n="vblex"/></r></e>
+<e><l>kentk<s n="v"/><s n="iv"/><s n="aa"/></l><r>dance<s n="vblex"/></r></e>
+<e><l>lashim<s n="v"/><s n="iv"/><s n="aa"/></l><r>dream<s n="vblex"/></r></e>
+<e><l>katupw<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>hungry<s n="vblex"/></r></e>
+<e><l>tite<s n="v"/><s n="iv"/><s n="aa"/></l><r>think<s n="vblex"/></r></e>
+<e><l>mits<s n="v"/><s n="iv"/><s n="aa"/></l><r>eat<s n="vblex"/></r></e>
+<e><l>mits<s n="v"/><s n="iv"/><s n="aa"/></l><r>dine<s n="vblex"/></r></e>
+<e><l>mëne<s n="v"/><s n="iv"/><s n="aa"/></l><r>drink<s n="vblex"/></r></e>
+<e><l>katusëm<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>thirsty<s n="vblex"/></r></e>
+<e><l>ahp<s n="v"/><s n="iv"/><s n="aa"/></l><r>exist<s n="vblex"/></r></e>
+<e><l>ashewil<s n="v"/><s n="iv"/><s n="aa"/></l><r>swim<s n="vblex"/></r></e>
+<e><l>pap<s n="v"/><s n="iv"/><s n="aa"/></l><r>play<s n="vblex"/></r></e>
+<e><l>këlëks<s n="v"/><s n="iv"/><s n="aa"/></l><r>laugh<s n="vblex"/></r></e>
+<e><l>melimu<s n="v"/><s n="iv"/><s n="aa"/></l><r>cry<s n="vblex"/></r></e>
+<e><l>hakihe<s n="v"/><s n="iv"/><s n="aa"/></l><r>plant<s n="vblex"/></r></e>
+<e><l>alakihel<s n="v"/><s n="iv"/><s n="aa"/></l><r>jump<b/>around<s n="vblex"/></r></e>
+<e><l>winewe<s n="v"/><s n="iv"/><s n="aa"/></l><r>beg<s n="vblex"/></r></e>
+<e><l>winewe<s n="v"/><s n="iv"/><s n="aa"/></l><r>ask<s n="vblex"/></r></e>
+<e><l>kënthw<s n="v"/><s n="iv"/><s n="aa"/></l><r>fly<s n="vblex"/></r></e>
+<e><l>pus<s n="v"/><s n="iv"/><s n="aa"/></l><r>get<b/>into<b/>a<b/>boat<s n="vblex"/></r></e>
+<e><l>shielìntàm<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>sad<s n="vblex"/></r></e>
+<e><l>welelìntàm<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>glad<s n="vblex"/></r></e>
+<e><l>a<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<s n="vblex"/></r></e>
+<e><l>pa<s n="v"/><s n="iv"/><s n="aa"/></l><r>come<s n="vblex"/></r></e>
+<e><l>welinakws<s n="v"/><s n="iv"/><s n="aa"/></l><r>look<b/>good<s n="vblex"/></r></e>
+<e><l>um<s n="v"/><s n="iv"/><s n="aa"/></l><r>come<b/>from<s n="vblex"/></r></e>
+<e><l>watu<s n="v"/><s n="iv"/><s n="aa"/></l><r>know<s n="vblex"/></r></e>
+<e><l>mikëmòs<s n="v"/><s n="iv"/><s n="aa"/></l><r>work<s n="vblex"/></r></e>
+<e><l>chikhike<s n="v"/><s n="iv"/><s n="aa"/></l><r>sweep<s n="vblex"/></r></e>
+<e><l>shilenche<s n="v"/><s n="iv"/><s n="aa"/></l><r>wash<b/>hands<s n="vblex"/></r></e>
+<e><l>wesks<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>young<s n="vblex"/></r></e>
+<e><l>shixënchuwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>wash<b/>dishes<s n="vblex"/></r></e>
+<e><l>shixukwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>wash<b/>one's<b/>hair<s n="vblex"/></r></e>
+<e><l>shixhems<s n="v"/><s n="iv"/><s n="aa"/></l><r>wash<b/>clothes<s n="vblex"/></r></e>
+<e><l>alai<s n="v"/><s n="iv"/><s n="aa"/></l><r>hunt<s n="vblex"/></r></e>
+<e><l>wik<s n="v"/><s n="iv"/><s n="aa"/></l><r>to<b/>dwell<s n="vblex"/></r></e>
+<e><l>weskahp<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>born<s n="vblex"/></r></e>
+<e><l>ahchinkxe<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>stubborn<s n="vblex"/></r></e>
+<e><l>ahchinkxe<s n="v"/><s n="iv"/><s n="aa"/></l><r>disobedient<s n="vblex"/></r></e>
+<e><l>kelixike<s n="v"/><s n="iv"/><s n="aa"/></l><r>sew<s n="vblex"/></r></e>
+<e><l>ahponhe<s n="v"/><s n="iv"/><s n="aa"/></l><r>make<b/>bread<s n="vblex"/></r></e>
+<e><l>patam<s n="v"/><s n="iv"/><s n="aa"/></l><r>pray<s n="vblex"/></r></e>
+<e><l>manaxe<s n="v"/><s n="iv"/><s n="aa"/></l><r>cut<s n="vblex"/></r></e>
+<e><l>manaxe<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>after<b/>wood<s n="vblex"/></r></e>
+<e><l>ame<s n="v"/><s n="iv"/><s n="aa"/></l><r>fish<s n="vblex"/></r></e>
+<e><l>penhatu<s n="v"/><s n="iv"/><s n="aa"/></l><r>leave<b/>tracks<s n="vblex"/></r></e>
+<e><l>tkauxwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>walk<b/>slowly<s n="vblex"/></r></e>
+<e><l>ahkens<s n="v"/><s n="iv"/><s n="aa"/></l><r>read<s n="vblex"/></r></e>
+<e><l>ahkens<s n="v"/><s n="iv"/><s n="aa"/></l><r>count<s n="vblex"/></r></e>
+<e><l>shkul<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>to<b/>school<s n="vblex"/></r></e>
+<e><l>këshihëla<s n="v"/><s n="iv"/><s n="aa"/></l><r>run<s n="vblex"/></r></e>
+<e><l>taonkël<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>lost<s n="vblex"/></r></e>
+<e><l>wews<s n="v"/><s n="iv"/><s n="aa"/></l><r>find<b/>out<s n="vblex"/></r></e>
+<e><l>wews<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>notified<s n="vblex"/></r></e>
+<e><l>tapamuha<s n="v"/><s n="iv"/><s n="aa"/></l><r>drink<b/>with<b/>one's<b/>meal<s n="vblex"/></r></e>
+<e><l>katënami<s n="v"/><s n="iv"/><s n="aa"/></l><r>to<b/>be<b/>years<b/>old<s n="vblex"/></r></e>
+<e><l>sësalamu<s n="v"/><s n="iv"/><s n="aa"/></l><r>scream<s n="vblex"/></r></e>
+<e><l>amihële<s n="v"/><s n="iv"/><s n="aa"/></l><r>fall<b/>down<s n="vblex"/></r></e>
+<e><l>amihële<s n="v"/><s n="iv"/><s n="aa"/></l><r>blow<b/>down<s n="vblex"/></r></e>
+<e><l>amihële<s n="v"/><s n="iv"/><s n="aa"/></l><r>blow<b/>over<s n="vblex"/></r></e>
+<e><l>àspintxke<s n="v"/><s n="iv"/><s n="aa"/></l><r>raise<b/>one's<b/>hand<s n="vblex"/></r></e>
+<e><l>kishiki<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>grown<s n="vblex"/></r></e>
+<e><l>kishiki<s n="v"/><s n="iv"/><s n="aa"/></l><r>grow<b/>up<s n="vblex"/></r></e>
+<e><l>luwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>say<b/>so<s n="vblex"/></r></e>
+<e><l>ànkël<s n="v"/><s n="iv"/><s n="aa"/></l><r>die<s n="vblex"/></r></e>
+<e><l>xahows<s n="v"/><s n="iv"/><s n="aa"/></l><r>lead<b/>a<b/>bad<b/>life<s n="vblex"/></r></e>
+<e><l>xahowehòs<s n="v"/><s n="iv"/><s n="aa"/></l><r>act<b/>badly<s n="vblex"/></r></e>
+<e><l>màskt<s n="v"/><s n="iv"/><s n="aa"/></l><r>defecate<s n="vblex"/></r></e>
+<e><l>alàpilahtu<s n="v"/><s n="iv"/><s n="aa"/></l><r>do<b/>quickly<s n="vblex"/></r></e>
+<e><l>tëpchehëlasʼhama<s n="v"/><s n="iv"/><s n="aa"/></l><r>travel<b/>by<b/>car<s n="vblex"/></r></e>
+<e><l>shenkixi<s n="v"/><s n="iv"/><s n="aa"/></l><r>lie<b/>down<s n="vblex"/></r></e>
+<e><l>wik<s n="v"/><s n="iv"/><s n="aa"/></l><r>live<s n="vblex"/></r></e>
+<e><l>wikin<s n="v"/><s n="iv"/><s n="aa"/></l><r>live<b/>somewhere<s n="vblex"/></r></e>
+<e><l>wikin<s n="v"/><s n="iv"/><s n="aa"/></l><r>dwell<s n="vblex"/></r></e>
+<e><l>kànchix<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>hidden<s n="vblex"/></r></e>
+<e><l>pùt<s n="v"/><s n="iv"/><s n="aa"/></l><r>poop<s n="vblex"/></r></e>
+<e><l>maskt<s n="v"/><s n="iv"/><s n="aa"/></l><r>poop<s n="vblex"/></r></e>
+<e><l>ëlësi<s n="v"/><s n="iv"/><s n="aa"/></l><r>do<b/>in<b/>a<b/>way<s n="vblex"/></r></e>
+<e><l>ëlësi<s n="v"/><s n="iv"/><s n="aa"/></l><r>do<b/>what<s n="vblex"/></r></e>
+<e><l>ksihëwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>win<s n="vblex"/></r></e>
+<e><l>mësiliahàn<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>here<b/>and<b/>there<s n="vblex"/></r></e>
+<e><l>pëmëska<s n="v"/><s n="iv"/><s n="aa"/></l><r>walk<s n="vblex"/></r></e>
+<e><l>nutike<s n="v"/><s n="iv"/><s n="aa"/></l><r>stay<b/>home<s n="vblex"/></r></e>
+<e><l>alënixsi<s n="v"/><s n="iv"/><s n="aa"/></l><r>speak<b/>Lënape<s n="vblex"/></r></e>
+<e><l>luwènsi<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>called<s n="vblex"/></r></e>
+<e><l>ëpchèhëla<s n="v"/><s n="iv"/><s n="aa"/></l><r>roll<s n="vblex"/></r></e>
+<e><l>kònshiphuwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>hide<s n="vblex"/></r></e>
+<e><l>kiwsëwinakwsi<s n="v"/><s n="iv"/><s n="aa"/></l><r>look<b/>drunk<s n="vblex"/></r></e>
+<e><l>palaihòsi<s n="v"/><s n="iv"/><s n="aa"/></l><r>make<b/>a<b/>mistake<s n="vblex"/></r></e>
+<e><l>pakalënchi<s n="v"/><s n="iv"/><s n="aa"/></l><r>clap<s n="vblex"/></r></e>
+<e><l>òkèksëne<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>sockless<s n="vblex"/></r></e>
+<e><l>nima<s n="v"/><s n="iv"/><s n="aa"/></l><r>bring<b/>lunch<s n="vblex"/></r></e>
+<e><l>nipai<s n="v"/><s n="iv"/><s n="aa"/></l><r>stand<s n="vblex"/></r></e>
+<e><l>nipai<s n="v"/><s n="iv"/><s n="aa"/></l><r>stand<b/>up<s n="vblex"/></r></e>
+<e><l>lehëlexe<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>alive<s n="vblex"/></r></e>
+<e><l>chpixsu<s n="v"/><s n="iv"/><s n="aa"/></l><r>talk<b/>different<s n="vblex"/></r></e>
+<e><l>ntahkënsi<s n="v"/><s n="iv"/><s n="aa"/></l><r>read<s n="vblex"/></r></e>
+<e><l>piyuntàm<s n="v"/><s n="iv"/><s n="aa"/></l><r>eat<b/>leftovers<s n="vblex"/></r></e>
+<e><l>alëmskuse<s n="v"/><s n="iv"/><s n="aa"/></l><r>drive<s n="vblex"/></r></e>
+<e><l>pëmëtunhe<s n="v"/><s n="iv"/><s n="aa"/></l><r>speak<b/>well<s n="vblex"/></r></e>
+<e><l>tënte-tëpchehëlasʼhama<s n="v"/><s n="iv"/><s n="aa"/></l><r>travel<b/>by<b/>train<s n="vblex"/></r></e>
+<e><l>sëkàpsi<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>wet<s n="vblex"/></r></e>
+<e><l>chìpilësi<s n="v"/><s n="iv"/><s n="aa"/></l><r>have<b/>supernatural<b/>powers<s n="vblex"/></r></e>
+<e><l>nisktëlinkwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>have<b/>a<b/>dirty<b/>face<s n="vblex"/></r></e>
+<e><l>wiàkskashimw<s n="v"/><s n="iv"/><s n="aa"/></l><r>dream<b/>a<b/>mixed-up<b/>dream<s n="vblex"/></r></e>
+<e><l>mètxika<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>late<s n="vblex"/></r></e>
+<e><l>ayëhelunkòm<s n="v"/><s n="iv"/><s n="aa"/></l><r>sleep<b/>late<s n="vblex"/></r></e>
+<e><l>manunksi<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>mad<s n="vblex"/></r></e>
+<e><l>manunksi<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>angry<s n="vblex"/></r></e>
+<e><l>manunkihële<s n="v"/><s n="iv"/><s n="aa"/></l><r>get<b/>angry<b/>quickly<s n="vblex"/></r></e>
+<e><l>chipaxkwinalìti<s n="v"/><s n="iv"/><s n="aa"/></l><r>play<b/>the<b/>moccasin<b/>game<s n="vblex"/></r></e>
+<e><l>mëshake<s n="v"/><s n="iv"/><s n="aa"/></l><r>sit<s n="vblex"/></r></e>
+<e><l>kwëchkwi<s n="v"/><s n="iv"/><s n="aa"/></l><r>move<s n="vblex"/></r></e>
+<e><l>kwëchkwi<s n="v"/><s n="iv"/><s n="aa"/></l><r>budge<s n="vblex"/></r></e>
+<e><l>tkauxwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>walk<b/>slowly<s n="vblex"/></r></e>
+<e><l>këchaxkihela<s n="v"/><s n="iv"/><s n="aa"/></l><r>come<b/>off<s n="vblex"/></r></e>
+<e><l>mùxulhama<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>by<b/>canoe<s n="vblex"/></r></e>
+<e><l>mùxulhama<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>by<b/>boat<s n="vblex"/></r></e>
+<e><l>mùxulhe<s n="v"/><s n="iv"/><s n="aa"/></l><r>make<b/>a<b/>canoe<s n="vblex"/></r></e>
+<e><l>mùxulhe<s n="v"/><s n="iv"/><s n="aa"/></l><r>make<b/>a<b/>boat<s n="vblex"/></r></e>
+<e><l>làxalàntàma<s n="v"/><s n="iv"/><s n="aa"/></l><r>regain<b/>consciousness<s n="vblex"/></r></e>
+<e><l>làxalàntàma<s n="v"/><s n="iv"/><s n="aa"/></l><r>revive<s n="vblex"/></r></e>
+<e><l>tukihële<s n="v"/><s n="iv"/><s n="aa"/></l><r>wake<b/>up<s n="vblex"/></r></e>
+<e><l>ahpikwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>play<b/>a<b/>musical<b/>instrument<s n="vblex"/></r></e>
+<e><l>khitaptune<s n="v"/><s n="iv"/><s n="aa"/></l><r>insist<s n="vblex"/></r></e>
+<e><l>chipànkël<s n="v"/><s n="iv"/><s n="aa"/></l><r>be<b/>sick<b/>with<b/>some<b/>strange<b/>disease<s n="vblex"/></r></e>
+<e><l>pakuwe<s n="v"/><s n="iv"/><s n="aa"/></l><r>make<b/>a<b/>lot<b/>of<b/>noise<s n="vblex"/></r></e>
+<e><l>nshukëlàpònhe<s n="v"/><s n="iv"/><s n="aa"/></l><r>bake<b/>cake<s n="vblex"/></r></e>
+<e><l>pëmihëla<s n="v"/><s n="iv"/><s n="aa"/></l><r>fly<s n="vblex"/></r></e>
+<e><l>pëmihëla<s n="v"/><s n="iv"/><s n="aa"/></l><r>go<b/>by<b/>airplane<s n="vblex"/></r></e>
+<e><l>chaksitèxi<s n="v"/><s n="iv"/><s n="aa"/></l><r>bump<b/>one's<b/>foot<s n="vblex"/></r></e>
+<e><l>tankhitu<s n="v"/><s n="tv"/><s n="nn"/></l><r>lose<s n="vblex"/></r></e>
+<e><l>màxkàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>find<s n="vblex"/></r></e>
+<e><l>kaxksem<s n="v"/><s n="tv"/><s n="nn"/></l><r>dry<s n="vblex"/></r></e>
+<e><l>kwëtkënëm<s n="v"/><s n="tv"/><s n="nn"/></l><r>return<s n="vblex"/></r></e>
+<e><l>këlënëm<s n="v"/><s n="tv"/><s n="nn"/></l><r>carry<s n="vblex"/></r></e>
+<e><l>këlënëm<s n="v"/><s n="tv"/><s n="nn"/></l><r>hold<s n="vblex"/></r></e>
+<e><l>alënëm<s n="v"/><s n="tv"/><s n="nn"/></l><r>touch<s n="vblex"/></r></e>
+<e><l>nem<s n="v"/><s n="tv"/><s n="nn"/></l><r>see<s n="vblex"/></r></e>
+<e><l>pënam<s n="v"/><s n="tv"/><s n="nn"/></l><r>look<b/>at<s n="vblex"/></r></e>
+<e><l>wixeni<s n="v"/><s n="tv"/><s n="nn"/></l><r>cook<s n="vblex"/></r></e>
+<e><l>katatàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>want<s n="vblex"/></r></e>
+<e><l>katutàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>want<b/>to<b/>eat<s n="vblex"/></r></e>
+<e><l>shinkatàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>hate<s n="vblex"/></r></e>
+<e><l>ulhatu<s n="v"/><s n="tv"/><s n="nn"/></l><r>have<s n="vblex"/></r></e>
+<e><l>watu<s n="v"/><s n="tv"/><s n="nn"/></l><r>know<s n="vblex"/></r></e>
+<e><l>watu<s n="v"/><s n="tv"/><s n="nn"/></l><r>know<b/>about<s n="vblex"/></r></e>
+<e><l>lamhìtàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>believe<s n="vblex"/></r></e>
+<e><l>tatu<s n="v"/><s n="tv"/><s n="nn"/></l><r>put<s n="vblex"/></r></e>
+<e><l>tatu<s n="v"/><s n="tv"/><s n="nn"/></l><r>place<s n="vblex"/></r></e>
+<e><l>meshatàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>remember<s n="vblex"/></r></e>
+<e><l>këlixham<s n="v"/><s n="tv"/><s n="nn"/></l><r>sew<s n="vblex"/></r></e>
+<e><l>nakatàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>use<s n="vblex"/></r></e>
+<e><l>pëmëxòhtu<s n="v"/><s n="tv"/><s n="nn"/></l><r>carryon<s n="vblex"/></r></e>
+<e><l>ànkhìtu<s n="v"/><s n="tv"/><s n="nn"/></l><r>lose<s n="vblex"/></r></e>
+<e><l>këchkënëm<s n="v"/><s n="tv"/><s n="nn"/></l><r>detach<s n="vblex"/></r></e>
+<e><l>luwe<s n="v"/><s n="tv"/><s n="nn"/></l><r>say<s n="vblex"/></r></e>
+<e><l>michi<s n="v"/><s n="tv"/><s n="nn"/></l><r>eat<s n="vblex"/></r></e>
+<e><l>pètu<s n="v"/><s n="tv"/><s n="nn"/></l><r>bring<s n="vblex"/></r></e>
+<e><l>pètu<s n="v"/><s n="tv"/><s n="nn"/></l><r>wait<b/>for<s n="vblex"/></r></e>
+<e><l>mëshënëm<s n="v"/><s n="tv"/><s n="nn"/></l><r>get<s n="vblex"/></r></e>
+<e><l>wiàmxkhàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>stir<s n="vblex"/></r></e>
+<e><l>këchilahtu<s n="v"/><s n="tv"/><s n="nn"/></l><r>pullout<s n="vblex"/></r></e>
+<e><l>nihëlatàm<s n="v"/><s n="tv"/><s n="nn"/></l><r>own<s n="vblex"/></r></e>
+<e><l>wàni<s n="v"/><s n="tv"/><s n="nn"/></l><r>forget<s n="vblex"/></r></e>
+<e><l>kahpàtu<s n="v"/><s n="tv"/><s n="nn"/></l><r>pullout<b/>of<b/>the<b/>water<s n="vblex"/></r></e>
+<e><l>mëne<s n="v"/><s n="tv"/><s n="nn"/></l><r>drink<s n="vblex"/></r></e>
+<e><l>manitu<s n="v"/><s n="tv"/><s n="nn"/></l><r>make<s n="vblex"/></r></e>
+<e><l>wtënëm<s n="v"/><s n="tv"/><s n="nn"/></l><r>pull<s n="vblex"/></r></e>
+<e><l>mil<s n="v"/><s n="tv"/><s n="aa"/></l><r>give<s n="vblex"/></r></e>
+<e><l>new<s n="v"/><s n="tv"/><s n="aa"/></l><r>see<s n="vblex"/></r></e>
+<e><l>wichëm<s n="v"/><s n="tv"/><s n="aa"/></l><r>help<s n="vblex"/></r></e>
+<e><l>nachih<s n="v"/><s n="tv"/><s n="aa"/></l><r>bother<s n="vblex"/></r></e>
+<e><l>kelen<s n="v"/><s n="tv"/><s n="aa"/></l><r>carry<s n="vblex"/></r></e>
+<e><l>kelen<s n="v"/><s n="tv"/><s n="aa"/></l><r>hold<s n="vblex"/></r></e>
+<e><l>wixën<s n="v"/><s n="tv"/><s n="aa"/></l><r>cook<b/>animate<s n="vblex"/></r></e>
+<e><l>naol<s n="v"/><s n="tv"/><s n="aa"/></l><r>follow<s n="vblex"/></r></e>
+<e><l>uwah<s n="v"/><s n="tv"/><s n="aa"/></l><r>know<s n="vblex"/></r></e>
+<e><l>ahkw<s n="v"/><s n="tv"/><s n="aa"/></l><r>wear<s n="vblex"/></r></e>
+<e><l>wishal<s n="v"/><s n="tv"/><s n="aa"/></l><r>scare<s n="vblex"/></r></e>
+<e><l>wishal<s n="v"/><s n="tv"/><s n="aa"/></l><r>frighten<s n="vblex"/></r></e>
+<e><l>el<s n="v"/><s n="tv"/><s n="aa"/></l><r>say<s n="vblex"/></r></e>
+<e><l>el<s n="v"/><s n="tv"/><s n="aa"/></l><r>tell<s n="vblex"/></r></e>
+<e><l>mimh<s n="v"/><s n="tv"/><s n="aa"/></l><r>eat<s n="vblex"/></r></e>
+<e><l>mhuw<s n="v"/><s n="tv"/><s n="aa"/></l><r>eat<s n="vblex"/></r></e>
+<e><l>wètën<s n="v"/><s n="tv"/><s n="aa"/></l><r>pick<b/>up<s n="vblex"/></r></e>
+<e><l>penkòkho<s n="v"/><s n="tv"/><s n="aa"/></l><r>rub<s n="vblex"/></r></e>
+<e><l>penkòkho<s n="v"/><s n="tv"/><s n="aa"/></l><r>dry<s n="vblex"/></r></e>
+<e><l>pèsxama<s n="v"/><s n="tv"/><s n="aa"/></l><r>pass<s n="vblex"/></r></e>
+<e><l>naxkum<s n="v"/><s n="tv"/><s n="aa"/></l><r>answer<s n="vblex"/></r></e>
+<e><l>winkal<s n="v"/><s n="tv"/><s n="aa"/></l><r>like<s n="vblex"/></r></e>
+<e><l>chëchëphw<s n="v"/><s n="tv"/><s n="aa"/></l><r>strike<b/>repeatedly<s n="vblex"/></r></e>
+<e><l>manunksit<s n="v"/><s n="tv"/><s n="aa"/></l><r>be<b/>mad<b/>at<s n="vblex"/></r></e>
+<e><l>manunksit<s n="v"/><s n="tv"/><s n="aa"/></l><r>be<b/>angry<b/>with<s n="vblex"/></r></e>
+<e><l>ònkum<s n="v"/><s n="tv"/><s n="aa"/></l><r>show<b/>respect<s n="vblex"/></r></e>
+<e><l>ònkum<s n="v"/><s n="tv"/><s n="aa"/></l><r>honour<s n="vblex"/></r></e>
+<e><l>ònkum<s n="v"/><s n="tv"/><s n="aa"/></l><r>esteem<s n="vblex"/></r></e>
+<e><l>ònkum<s n="v"/><s n="tv"/><s n="aa"/></l><r>invoke<b/>blessing<s n="vblex"/></r></e>
+<e><l>ònkum<s n="v"/><s n="tv"/><s n="aa"/></l><r>greet<s n="vblex"/></r></e>
+<e><l>ònkum<s n="v"/><s n="tv"/><s n="aa"/></l><r>shake<b/>hands<b/>with<s n="vblex"/></r></e>
+<e><l>nën<s n="v"/><s n="tv"/><s n="aa"/></l><r>recognise<s n="vblex"/></r></e>
+<e><l>nën<s n="v"/><s n="tv"/><s n="aa"/></l><r>know<s n="vblex"/></r></e>
+<e><l>wùntama<s n="v"/><s n="tv"/><s n="aa"/></l><r>teach<s n="vblex"/></r></e>
+<e><l>ulhal<s n="v"/><s n="tv"/><s n="aa"/></l><r>have<s n="vblex"/></r></e>
+<e><l>katupw<s n="v"/><s n="tv"/><s n="aa"/></l><r>want<b/>to<b/>eat<s n="vblex"/></r></e>
+<e><l>pëna<s n="v"/><s n="tv"/><s n="aa"/></l><r>look<b/>at<s n="vblex"/></r></e>
+<e><l>wtëna<s n="v"/><s n="tv"/><s n="aa"/></l><r>pull<s n="vblex"/></r></e>
+<e><l>punih<s n="v"/><s n="tv"/><s n="aa"/></l><r>leave<b/>alone<s n="vblex"/></r></e>
+<e><l>pèchim<s n="v"/><s n="tv"/><s n="aa"/></l><r>call<b/>to<s n="vblex"/></r></e>
+<e><l>pahòka<s n="v"/><s n="tv"/><s n="aa"/></l><r>be<b/>affectionate<b/>to<s n="vblex"/></r></e>
+<e><l>sëk<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>black<s n="vblex"/></r></e>
+<e><l>wisaw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>yellow<s n="vblex"/></r></e>
+<e><l>òp<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>white<s n="vblex"/></r></e>
+<e><l>àskàskw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>green<s n="vblex"/></r></e>
+<e><l>aon<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>blue<s n="vblex"/></r></e>
+<e><l>wipunkw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>grey<s n="vblex"/></r></e>
+<e><l>màxk<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>red<s n="vblex"/></r></e>
+<e><l>likt<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>a<b/>colour<s n="vblex"/></r></e>
+<e><l>likt<s n="v"/><s n="iv"/><s n="nn"/></l><r>bes<b/>colour<s n="vblex"/></r></e>
+<e><l>siskwinakw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>brown<s n="vblex"/></r></e>
+<e><l>wipunkw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>grey<s n="vblex"/></r></e>
+<e><l>mamal<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>striped<s n="vblex"/></r></e>
+<e><l>sësàp<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>spotted<s n="vblex"/></r></e>
+<e><l>wël<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>pretty<s n="vblex"/></r></e>
+<e><l>alàx<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>empty<s n="vblex"/></r></e>
+<e><l>xuw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>old<s n="vblex"/></r></e>
+<e><l>ahpu<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>baked<s n="vblex"/></r></e>
+<e><l>salà<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>fried<s n="vblex"/></r></e>
+<e><l>kah<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>dry<s n="vblex"/></r></e>
+<e><l>pahs<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>half<s n="vblex"/></r></e>
+<e><l>pisk<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>dark<s n="vblex"/></r></e>
+<e><l>nisk<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>dirty<s n="vblex"/></r></e>
+<e><l>chpi<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>different<s n="vblex"/></r></e>
+<e><l>chpi<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>strange<s n="vblex"/></r></e>
+<e><l>òsëlehël<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>iridescent<s n="vblex"/></r></e>
+<e><l>òsëlehël<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>shimmering<s n="vblex"/></r></e>
+<e><l>ahw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>a<b/>thicket<s n="vblex"/></r></e>
+<e><l>ahw<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>timber<s n="vblex"/></r></e>
+<e><l>làhpiku<s n="v"/><s n="iv"/><s n="nn"/></l><r>grow<b/>fast<s n="vblex"/></r></e>
+<e><l>salà<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>fried<s n="vblex"/></r></e>
+<e><l>wën<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>boiled<s n="vblex"/></r></e>
+<e><l>lu<s n="v"/><s n="iv"/><s n="nn"/></l><r>be<b/>burned<s n="vblex"/></r></e>
+<e><l>në<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="sg"/></l><r>that<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="sg"/></r></e>
+<e><l>në<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="sg"/></l><r>the<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="sg"/></r></e>
+<e><l>na<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="sg"/></l><r>that<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="sg"/></r></e>
+<e><l>na<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="sg"/></l><r>the<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="sg"/></r></e>
+<e><l>nèl<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="pl"/></l><r>that<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="pl"/></r></e>
+<e><l>nèk<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="pl"/></l><r>that<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="pl"/></r></e>
+<e><l>yu<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg"/></r></e>
+<e><l>yu<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg>+she<adv"/></l><r>this<b/>here<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg>+she<adv"/></r></e>
+<e><l>wa<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="sg"/></r></e>
+<e><l>yuli<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="pl"/></r></e>
+<e><l>yuki<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></r></e>
+<e><l>yuki<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></r></e>
+<e><l>yuki<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl>+she<adv"/></l><r>these<b/>here<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl>+she<adv"/></r></e>
+<e><l>waka<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="abs"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="abs"/><s n="sg"/></r></e>
+<e><l>wèmi<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></e>
+<e><l>wèmi<s n="det"/><s n="qnt"/></l><r>every<s n="det"/><s n="qnt"/></r></e>
+<e><l>xeli<s n="det"/><s n="qnt"/></l><r>many<s n="det"/><s n="qnt"/></r></e>
+<e><l>nën<s n="prn"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="sg"/></l><r>that<s n="prn"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="sg"/></r></e>
+<e><l>nàn<s n="prn"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="sg"/></l><r>that<s n="prn"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="sg"/></r></e>
+<e><l>yu<s n="prn"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg"/></l><r>this<s n="prn"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg"/></r></e>
+<e><l>wa<s n="prn"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="sg"/></l><r>this<s n="prn"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="sg"/></r></e>
+<e><l>awèn<s n="prn"/><s n="itg"/></l><r>who<s n="prn"/><s n="itg"/></r></e>
+<e><l>kèku<s n="prn"/><s n="itg"/></l><r>what<s n="prn"/><s n="itg"/></r></e>
+<e><l>yukwe<s n="adv"/></l><r>now<s n="adv"/></r></e>
+<e><l>lòkëwe<s n="adv"/></l><r>yesterday<s n="adv"/></r></e>
+<e><l>she<s n="adv"/></l><r>here<s n="adv"/></r></e>
+<e><l>ìka<s n="adv"/></l><r>there<s n="adv"/></r></e>
+<e><l>wëlèh<s n="adv"/></l><r>there<s n="adv"/></r></e>
+<e><l>wëlèh<s n="adv"/></l><r>over<b/>there<s n="adv"/></r></e>
+<e><l>konaet<s n="adv"/></l><r>maybe<s n="adv"/></r></e>
+<e><l>xuniti<s n="adv"/></l><r>soon<s n="adv"/></r></e>
+<e><l>na<s n="adv"/></l><r>then<s n="adv"/></r></e>
+<e><l>kahti<s n="adv"/></l><r>almost<s n="adv"/></r></e>
+<e><l>sòmi<s n="adv"/></l><r>very<s n="adv"/></r></e>
+<e><l>mèchi<s n="adv"/></l><r>now<s n="adv"/></r></e>
+<e><l>mèchi<s n="adv"/></l><r>already<s n="adv"/></r></e>
+<e><l>xàntki<s n="adv"/></l><r>finally<s n="adv"/></r></e>
+<e><l>lekhikwi<s n="adv"/></l><r>at<b/>this<b/>time<s n="adv"/></r></e>
+<e><l>tamse<s n="adv"/></l><r>sometimes<s n="adv"/></r></e>
+<e><l>tamse<s n="adv"/></l><r>perhaps<s n="adv"/></r></e>
+<e><l>tamse<s n="adv"/></l><r>maybe<s n="adv"/></r></e>
+<e><l>àpchi<s n="adv"/></l><r>always<s n="adv"/></r></e>
+<e><l>lòmëwe<s n="adv"/></l><r>long<b/>ago<s n="adv"/></r></e>
+<e><l>kèxiti<s n="adv"/></l><r>a<b/>little<s n="adv"/></r></e>
+<e><l>kèxiti<s n="adv"/></l><r>a<b/>little<b/>bit<s n="adv"/></r></e>
+<e><l>kishkwik<s n="adv"/></l><r>today<s n="adv"/></r></e>
+<e><l>wëli<s n="adv"/></l><r>very<s n="adv"/></r></e>
+<e><l>wëli<s n="adv"/></l><r>good<s n="adv"/></r></e>
+<e><l>wëli<s n="adv"/></l><r>well<s n="adv"/></r></e>
+<e><l>kwiakwi<s n="adv"/></l><r>more<s n="adv"/></r></e>
+<e><l>kwiakwi<s n="adv"/></l><r>still<s n="adv"/></r></e>
+<e><l>nahi<s n="adv"/></l><r>downstream<s n="adv"/></r></e>
+<e><l>piskèke<s n="adv"/></l><r>tonight<s n="adv"/></r></e>
+<e><l>piskèke<s n="adv"/></l><r>last<b/>night<s n="adv"/></r></e>
+<e><l>piskèke<s n="adv"/></l><r>when<b/>night<b/>comes<s n="adv"/></r></e>
+<e><l>piskèk<s n="adv"/></l><r>at<b/>night<s n="adv"/></r></e>
+<e><l>piskèk<s n="adv"/></l><r>whenis<b/>dark<s n="adv"/></r></e>
+<e><l>tani<s n="adv"/></l><r>where<s n="adv"/></r></e>
+<e><l>kèxa<s n="adv"/></l><r>how<b/>much<s n="adv"/></r></e>
+<e><l>kèxa<s n="adv"/></l><r>how<b/>many<s n="adv"/></r></e>
+<e><l>chinke<s n="adv"/></l><r>when<s n="adv"/></r></e>
+<e><l>mata<s n="adv"/></l><r>not<s n="adv"/></r></e>
+<e><l>ku<s n="adv"/></l><r>not<s n="adv"/></r></e>
+<e><l>òpànke<s n="adv"/></l><r>the<b/>next<b/>morning<s n="adv"/></r></e>
+<e><l>òpànke<s n="adv"/></l><r>tomorrow<b/>morning<s n="adv"/></r></e>
+<e><l>et<s n="adv"/></l><r>perhaps<s n="adv"/></r></e>
+<e><l>et<s n="adv"/></l><r>probably<s n="adv"/></r></e>
+<e><l>làpi<s n="adv"/></l><r>again<s n="adv"/></r></e>
+<e><l>xaheli<s n="adv"/></l><r>much<s n="adv"/></r></e>
+<e><l>xaheli<s n="adv"/></l><r>many<s n="adv"/></r></e>
+<e><l>nëke<s n="adv"/></l><r>at<b/>this<s n="adv"/></r></e>
+<e><l>nëke<s n="adv"/></l><r>that<b/>time<s n="adv"/></r></e>
+<e><l>ohëlëmi<s n="adv"/></l><r>far<b/>away<s n="adv"/></r></e>
+<e><l>shëkw<s n="adv"/></l><r>only<s n="adv"/></r></e>
+<e><l>shëkw<s n="adv"/></l><r>but<s n="adv"/></r></e>
+<e><l>tènta<s n="adv"/></l><r>there<s n="adv"/></r></e>
+<e><l>alàshi<s n="adv"/></l><r>somewhat<s n="adv"/></r></e>
+<e><l>alàshi<s n="adv"/></l><r>like<s n="adv"/></r></e>
+<e><l>alàshi<s n="adv"/></l><r>as<s n="adv"/></r></e>
+<e><l>pëna<s n="adv"/></l><r>even<s n="adv"/></r></e>
+<e><l>kwënayki<s n="adv"/></l><r>finally<s n="adv"/></r></e>
+<e><l>alëwi<s n="adv"/></l><r>more<s n="adv"/></r></e>
+<e><l>alëwi<s n="adv"/></l><r>most<s n="adv"/></r></e>
+<e><l>nishën<s n="adv"/></l><r>twice<s n="adv"/></r></e>
+<e><l>tpukwe<s n="adv"/></l><r>last<b/>night<s n="adv"/></r></e>
+<e><l>chëweyunk<s n="adv"/></l><r>up<b/>the<b/>hill<s n="adv"/></r></e>
+<e><l>kwëni<s n="adv"/></l><r>long<s n="adv"/></r></e>
+<e><l>kwëni<s n="adv"/></l><r>for<b/>a<b/>long<b/>time<s n="adv"/></r></e>
+<e><l>nochi<s n="adv"/></l><r>since<b/>then<s n="adv"/></r></e>
+<e><l>salàxki<s n="adv"/></l><r>suddenly<s n="adv"/></r></e>
+<e><l>salàxki<s n="adv"/></l><r>all<b/>at<b/>once<s n="adv"/></r></e>
+<e><l>làhpi<s n="adv"/></l><r>quickly<s n="adv"/></r></e>
+<e><l>matanake<s n="adv"/></l><r>after<b/>a<b/>while<s n="adv"/></r></e>
+<e><l>lahapa<s n="adv"/></l><r>for<b/>a<b/>while<s n="adv"/></r></e>
+<e><l>ahsenike<s n="adv"/></l><r>among<b/>the<b/>rocks<s n="adv"/></r></e>
+<e><l>alàpae<s n="adv"/></l><r>early<b/>in<b/>the<b/>morning<s n="adv"/></r></e>
+<e><l>alàpa<s n="adv"/></l><r>tomorrow<s n="adv"/></r></e>
+<e><l>xuha<s n="adv"/></l><r>alone<s n="adv"/></r></e>
+<e><l>wèski<s n="adv"/></l><r>a<b/>while<b/>back<s n="adv"/></r></e>
+<e><l>wèski<s n="adv"/></l><r>a<b/>while<b/>ago<s n="adv"/></r></e>
+<e><l>wèski<s n="adv"/></l><r>newly<s n="adv"/></r></e>
+<e><l>wichi<s n="pr"/></l><r>with<s n="pr"/></r></e>
+<e><l>hapi<s n="pr"/></l><r>with<s n="pr"/></r></e>
+<e><l>naxpi<s n="pr"/></l><r>with<s n="pr"/></r></e>
+<e><l>alàshi<s n="pr"/></l><r>like<s n="pr"/></r></e>
+<e><l>alàshi<s n="pr"/></l><r>as<s n="pr"/></r></e>
+<e><l>nochi<s n="pr"/></l><r>for<s n="pr"/></r></e>
+<e><l>nochi<s n="pr"/></l><r>since<s n="pr"/></r></e>
+<e><l>èkwii<s n="pr"/></l><r>under<s n="pr"/></r></e>
+<e><l>kwëti<s n="num"/></l><r>one<s n="num"/></r></e>
+<e><l>nisha<s n="num"/></l><r>two<s n="num"/></r></e>
+<e><l>naxa<s n="num"/></l><r>three<s n="num"/></r></e>
+<e><l>newa<s n="num"/></l><r>four<s n="num"/></r></e>
+<e><l>palenàxk<s n="num"/></l><r>five<s n="num"/></r></e>
+<e><l>kwëtash<s n="num"/></l><r>six<s n="num"/></r></e>
+<e><l>nishash<s n="num"/></l><r>seven<s n="num"/></r></e>
+<e><l>xash<s n="num"/></l><r>eight<s n="num"/></r></e>
+<e><l>pèshkunk<s n="num"/></l><r>nine<s n="num"/></r></e>
+<e><l>tèlën<s n="num"/></l><r>ten<s n="num"/></r></e>
+<e><l>nishinxke<s n="num"/></l><r>twenty<s n="num"/></r></e>
+<e><l>xintxke<s n="num"/></l><r>thirty<s n="num"/></r></e>
+<e><l>neinxke<s n="num"/></l><r>forty<s n="num"/></r></e>
+<e><l>palenàxk<b/>txintxke<s n="num"/></l><r>fifty<s n="num"/></r></e>
+<e><l>kwëtash<b/>txinxke<s n="num"/></l><r>sixty<s n="num"/></r></e>
+<e><l>nishash<b/>txinxke<s n="num"/></l><r>seventy<s n="num"/></r></e>
+<e><l>xash<b/>txinxke<s n="num"/></l><r>eighty<s n="num"/></r></e>
+<e><l>pèshkunk<b/>txintxke<s n="num"/></l><r>ninety<s n="num"/></r></e>
+<e><l>kwëtapxki<s n="num"/></l><r>one<b/>hundred<s n="num"/></r></e>
+<e><l>nishapxki<s n="num"/></l><r>two<b/>hundred<s n="num"/></r></e>
+<e><l>naxapxki<s n="num"/></l><r>three<b/>hundred<s n="num"/></r></e>
+<e><l>neòpxki<s n="num"/></l><r>four<b/>hundred<s n="num"/></r></e>
+<e><l>palenàxk<b/>txapxki<s n="num"/></l><r>five<b/>hundred<s n="num"/></r></e>
+<e><l>kwëtash<b/>txapxki<s n="num"/></l><r>six<b/>hundred<s n="num"/></r></e>
+<e><l>nishash<b/>txapxki<s n="num"/></l><r>seven<b/>hundred<s n="num"/></r></e>
+<e><l>xash<b/>txapxki<s n="num"/></l><r>eight<b/>hundred<s n="num"/></r></e>
+<e><l>pèshkunk<b/>txapxki<s n="num"/></l><r>nine<b/>hundred<s n="num"/></r></e>
+<e><l>tèlën<b/>txën<b/>kwëtapxki<s n="num"/></l><r>one<b/>thousand<s n="num"/></r></e>
+<e><l>tèlën<b/>txën<b/>txapxki<s n="num"/></l><r>one<b/>thousand<s n="num"/></r></e>
+<e><l>tèlën<b/>txapxki<s n="num"/></l><r>one<b/>thousand<s n="num"/></r></e>
+<e><l>yuh<s n="ij"/></l><r>alright<s n="ij"/></r></e>
+<e><l>yuh<s n="ij"/></l><r>okay<s n="ij"/></r></e>
+<e><l>ahikta<s n="ij"/></l><r>yes<s n="ij"/></r></e>
+<e><l>ahikta<s n="ij"/></l><r>agreed<s n="ij"/></r></e>
+<e><l>ahikta<s n="ij"/></l><r>oh<b/>yes<s n="ij"/></r></e>
+<e><l>nëpe<s n="ij"/></l><r>all<b/>right<s n="ij"/></r></e>
+<e><l>wanìshi<s n="ij"/></l><r>thank<b/>you<s n="ij"/></r></e>
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
