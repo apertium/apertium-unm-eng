@@ -1,0 +1,2070 @@
+g o:c o m e <vblex>	0.7895439267158508
+c o m i n g:c o m e <vblex>	0.7763835191726685
+c a m e:c o m e <vblex>	0.7517329454421997
+c o m e s:c o m e <vblex>	0.7499268054962158
+a r r i v e:c o m e <vblex>	0.7439314723014832
+b e - c o m e:c o m e <vblex>	0.7438780069351196
+g e t:c o m e <vblex>	0.7127853035926819
+b r i n g:c o m e <vblex>	0.701330304145813
+a r i v e:c o m e <vblex>	0.6968152523040771
+b c o m e:c o m e <vblex>	0.6955075263977051
+p o r c u p i n e s:p o r c u p i n e <n>	0.8079593777656555
+p o r c u p i n e f i s h:p o r c u p i n e <n>	0.6994161009788513
+s q u i r r e l:p o r c u p i n e <n>	0.6669692397117615
+r i n g - t a i l e d:p o r c u p i n e <n>	0.643146812915802
+s t u m p - t a i l e d:p o r c u p i n e <n>	0.636603832244873
+p o r c u s:p o r c u p i n e <n>	0.633332371711731
+l i o n - t a i l e d:p o r c u p i n e <n>	0.6325374245643616
+m a r m o s e t:p o r c u p i n e <n>	0.6297809481620789
+p i t v i p e r:p o r c u p i n e <n>	0.6249610185623169
+p u c c o o n:p o r c u p i n e <n>	0.6230508089065552
+s u d d e n t l y:s u d d e n l y <adv>	0.7838951945304871
+a b r u p t l y:s u d d e n l y <adv>	0.7684943079948425
+u n e x p e c t e d l y:s u d d e n l y <adv>	0.7461718320846558
+m y s t e r i o u s l y:s u d d e n l y <adv>	0.7417563199996948
+i n s t a n t l y:s u d d e n l y <adv>	0.724740743637085
+i m m e d i a t e l y:s u d d e n l y <adv>	0.6988096237182617
+f i n a l l y:s u d d e n l y <adv>	0.686917781829834
+i n e x p l i c a b l y:s u d d e n l y <adv>	0.6854510307312012
+d i s a p p e a r:s u d d e n l y <adv>	0.6698033809661865
+m a g i c a l l y:s u d d e n l y <adv>	0.6661562919616699
+c a r r y i n g:c a r r y <vblex>	0.7713463306427002
+c a r r i e d:c a r r y <vblex>	0.7615158557891846
+c a r r y s:c a r r y <vblex>	0.7436038851737976
+c a r r i e s:c a r r y <vblex>	0.7395758032798767
+h a n d - c a r r y:c a r r y <vblex>	0.7163117527961731
+c a r r y o n:c a r r y <vblex>	0.6957374215126038
+c a r r y - a l l:c a r r y <vblex>	0.6927860975265503
+c a r r y a l l:c a r r y <vblex>	0.6800609827041626
+c a r r i n g:c a r r y <vblex>	0.6777631044387817
+b e a r:c a r r y <vblex>	0.6678644418716431
+j u s t:o n l y <adv>	0.785048246383667
+o n l l y:o n l y <adv>	0.7703773975372314
+m e r e l y:o n l y <adv>	0.7545707821846008
+e v e n:o n l y <adv>	0.7482616901397705
+c e r t a i n l y:o n l y <adv>	0.7286143898963928
+s t i l l:o n l y <adv>	0.7208174467086792
+o p n l y:o n l y <adv>	0.7187485098838806
+s i m p l y:o n l y <adv>	0.71861732006073
+a c t u a l l y:o n l y <adv>	0.7180957794189453
+e s s e n t i a l l y:o n l y <adv>	0.7173371315002441
+c o m e:g o <vblex>	0.789543628692627
+g o i n g:g o <vblex>	0.7628998160362244
+g e t:g o <vblex>	0.7319315671920776
+c o n t i n u e:g o <vblex>	0.7204589247703552
+g o e s:g o <vblex>	0.7180330157279968
+d o:g o <vblex>	0.7166299223899841
+g o n e:g o <vblex>	0.7149332165718079
+p r o c e e d:g o <vblex>	0.7125611305236816
+s t a y:g o <vblex>	0.7065953016281128
+t a k e:g o <vblex>	0.7062273621559143
+w o r k s:w o r k <vblex>	0.7928161025047302
+w o r k i n g:w o r k <vblex>	0.7879143357276917
+w o r k - a n d:w o r k <vblex>	0.7591580152511597
+p i e c e - w o r k:w o r k <vblex>	0.7521638870239258
+w o r k - - a n d:w o r k <vblex>	0.7501078248023987
+l e g - w o r k:w o r k <vblex>	0.7458531260490417
+w o r k - - i n:w o r k <vblex>	0.7410324811935425
+- w o r k:w o r k <vblex>	0.7357137799263
+w o r k i g n:w o r k <vblex>	0.7215620279312134
+h o m e - w o r k:w o r k <vblex>	0.7201126217842102
+l r e a d y:a l r e a d y <adv>	0.7877212762832642
+a l l r e a d y:a l r e a d y <adv>	0.7693479061126709
+a r e a d y:a l r e a d y <adv>	0.7590335607528687
+b e e n:a l r e a d y <adv>	0.7581384778022766
+a c t u a l l y:a l r e a d y <adv>	0.7408082485198975
+p r e v i o u s l y:a l r e a d y <adv>	0.7393328547477722
+a l r a d y:a l r e a d y <adv>	0.7352527976036072
+n o w:a l r e a d y <adv>	0.7319437265396118
+c u r r e n t l y:a l r e a d y <adv>	0.7241107821464539
+a l r a e d y:a l r e a d y <adv>	0.7183281183242798
+g r e e t s:g r e e t <vblex>	0.8271899223327637
+g r e e t e d:g r e e t <vblex>	0.7293338775634766
+g r e e t e r s:g r e e t <vblex>	0.6781896948814392
+G r e e t:g r e e t <vblex>	0.6658862829208374
+g r e e t i n g:g r e e t <vblex>	0.6646171808242798
+g r e e t e r:g r e e t <vblex>	0.6249018311500549
+m e e t:g r e e t <vblex>	0.6231828331947327
+a c c o s t:g r e e t <vblex>	0.6061525940895081
+c h e e r:g r e e t <vblex>	0.6030905246734619
+g r e e t z:g r e e t <vblex>	0.5859721899032593
+t e l l l:t e l l <vblex>	0.7985594272613525
+t e l l i n g:t e l l <vblex>	0.7912629842758179
+t e l l s:t e l l <vblex>	0.7719858288764954
+t e l l -:t e l l <vblex>	0.7530794739723206
+k n o w:t e l l <vblex>	0.7499856948852539
+r e m i n d:t e l l <vblex>	0.7308499217033386
+t e l l l i n g:t e l l <vblex>	0.7294176816940308
+a s k:t e l l <vblex>	0.7233502268791199
+s a y:t e l l <vblex>	0.7224746346473694
+t e l l i n:t e l l <vblex>	0.7213119268417358
+m a k e s:m a k e <vblex>	0.8064786195755005
+m a k i n g:m a k e <vblex>	0.7793455123901367
+. M a k e:m a k e <vblex>	0.6861379146575928
+m a d e:m a k e <vblex>	0.6777417659759521
+m a k i g n:m a k e <vblex>	0.6659238934516907
+c r e a t e:m a k e <vblex>	0.6656506061553955
+t a k e:m a k e <vblex>	0.6643263697624207
+d o:m a k e <vblex>	0.6585322618484497
+g e t:m a k e <vblex>	0.6549712419509888
+c e a t e:m a k e <vblex>	0.6540417075157166
+t h a t y:t h a t <det>	0.7760406732559204
+w h i c h:t h a t <det>	0.7640235424041748
+t h a t - - i f:t h a t <det>	0.7454593181610107
+t h a t - - e v e n:t h a t <det>	0.7435450553894043
+t h a t - - t h a t:t h a t <det>	0.7399225234985352
+t h a t y o u:t h a t <det>	0.737671434879303
+t h a t t:t h a t <det>	0.7310407757759094
+t h a t - - f o r:t h a t <det>	0.7280735373497009
+t h a t - - b u t:t h a t <det>	0.7278882265090942
+a l l - - t h a t:t h a t <det>	0.7247911691665649
+r e c o g n i z e:r e c o g n i s e <vblex>	0.8297645449638367
+r e c o g n i s e s:r e c o g n i s e <vblex>	0.8132383823394775
+r e c o g n i s i n g:r e c o g n i s e <vblex>	0.8045979142189026
+r e a l i s e:r e c o g n i s e <vblex>	0.7910043001174927
+r e c o g n i s e d:r e c o g n i s e <vblex>	0.7879571914672852
+a c k n o w l e d g e:r e c o g n i s e <vblex>	0.7462627291679382
+r e c o g n i s i o n:r e c o g n i s e <vblex>	0.7424803972244263
+d e r e c o g n i s e:r e c o g n i s e <vblex>	0.7210981845855713
+r e c o g n i s a t i o n:r e c o g n i s e <vblex>	0.7210731506347656
+e m p h a s i s e:r e c o g n i s e <vblex>	0.7150254845619202
+b e g g e d:b e g <vblex>	0.7684897780418396
+b e g s:b e g <vblex>	0.7504422664642334
+b e g g i n g:b e g <vblex>	0.7417280673980713
+b e g g:b e g <vblex>	0.7115353345870972
+b e g g e r:b e g <vblex>	0.6869166493415833
+a s k:b e g <vblex>	0.6831080913543701
+b e g g i n:b e g <vblex>	0.6812247633934021
+b e s e e c h:b e g <vblex>	0.6723787188529968
+i m p l o r e:b e g <vblex>	0.6512909531593323
+e n t r e a t:b e g <vblex>	0.6284649968147278
+w h e r:w h e r e <adv>	0.7275257706642151
+w h e r e - e v e r:w h e r e <adv>	0.7210514545440674
+w h e r e v e r:w h e r e <adv>	0.7074030637741089
+w h i c h:w h e r e <adv>	0.6862903833389282
+w h e r e i n:w h e r e <adv>	0.6843981742858887
+w h e n:w h e r e <adv>	0.6837052702903748
+- w h e r e:w h e r e <adv>	0.6823796033859253
+w h e r e - i n:w h e r e <adv>	0.6806724667549133
+t h a t:w h e r e <adv>	0.6488825082778931
+n o w w h e r e:w h e r e <adv>	0.6433600187301636
+- w h o:w h o <prn>	0.7524974942207336
+w h o m:w h o <prn>	0.7521822452545166
+- - w h o:w h o <prn>	0.7316208481788635
+w h o - -:w h o <prn>	0.7079999446868896
+w h o m e:w h o <prn>	0.7062855958938599
+w h o n:w h o <prn>	0.6932224035263062
+w h o -:w h o <prn>	0.6874855756759644
+. w h o:w h o <prn>	0.6823559999465942
+w h o v e r:w h o <prn>	0.6728577017784119
+p e o p l e w h o:w h o <prn>	0.6639139652252197
+s w i f t l y:q u i c k l y <adv>	0.8866819739341736
+r a p i d l y:q u i c k l y <adv>	0.8657076358795166
+e a s i l y:q u i c k l y <adv>	0.8166995644569397
+p r o m p t l y:q u i c k l y <adv>	0.7883201241493225
+i m m e d i a t e l y:q u i c k l y <adv>	0.77999347448349
+s l o w l y:q u i c k l y <adv>	0.7759227156639099
+i n s t a n t l y:q u i c k l y <adv>	0.7747495174407959
+q u i c k l y -:q u i c k l y <adv>	0.7721718549728394
+s o o n:q u i c k l y <adv>	0.7462217211723328
+e f f i c i e n t l y:q u i c k l y <adv>	0.7414313554763794
+r u n n i n g:r u n <vblex>	0.8197713494300842
+r a n:r u n <vblex>	0.7697740793228149
+r u n n n i n g:r u n <vblex>	0.7573952078819275
+r u n s:r u n <vblex>	0.7466383576393127
+t r u n:r u n <vblex>	0.7098830342292786
+r u n n e d:r u n <vblex>	0.7096847295761108
+r e t r u n:r u n <vblex>	0.6958274841308594
+r u n n n g:r u n <vblex>	0.6936570405960083
+r u n n i g n:r u n <vblex>	0.6931751370429993
+s r u n:r u n <vblex>	0.6791460514068604
+s q u i r r e l s:s q u i r r e l <n>	0.8139333128929138
+s q u i r r e l l y:s q u i r r e l <n>	0.7096506357192993
+r a c c o o n:s q u i r r e l <n>	0.6832830905914307
+s q u i r r e l - c a g e:s q u i r r e l <n>	0.6817683577537537
+s q u i r r e l - l i k e:s q u i r r e l <n>	0.6787938475608826
+S q u i r r e l:s q u i r r e l <n>	0.6775873899459839
+m o n k e y:s q u i r r e l <n>	0.6721704602241516
+s q u i r r e l l i n g:s q u i r r e l <n>	0.6699260473251343
+p o r c u p i n e:s q u i r r e l <n>	0.6669695377349854
+c h i p m u n k:s q u i r r e l <n>	0.6656070947647095
+i t s:t h e <det>	0.7545766830444336
+f i r s t - - t h e:t h e <det>	0.7534652352333069
+t h e m - t h e:t h e <det>	0.7453409433364868
+t h e i r:t h e <det>	0.7397413849830627
+y o u - t h e:t h e <det>	0.7391119003295898
+h i s:t h e <det>	0.7357286810874939
+t h i s:t h e <det>	0.7341270446777344
+t h i s - t h e:t h e <det>	0.7223760485649109
+a l l - - t h e:t h e <det>	0.7223074436187744
+i n - - t h e:t h e <det>	0.7206947803497314
+a g a i n g:a g a i n <adv>	0.7678432464599609
+a g a i n - - a n d:a g a i n <adv>	0.7549743056297302
+o n c e:a g a i n <adv>	0.7399570941925049
+a g a i n - - b u t:a g a i n <adv>	0.7246095538139343
+a f t e r w a r d s:a g a i n <adv>	0.7168614268302917
+t h e n:a g a i n <adv>	0.7123759984970093
+s o o n:a g a i n <adv>	0.6887140870094299
+f i n a l l y:a g a i n <adv>	0.6883213520050049
+n o w:a g a i n <adv>	0.678939163684845
+a f t e r w a r d:a g a i n <adv>	0.6742932200431824
+b a d:g o o d <adv>	0.8503087759017944
+g o o o d:g o o d <adv>	0.8107682466506958
+e x c e l l e n t:g o o d <adv>	0.7996696829795837
+d e c e n t:g o o d <adv>	0.7811576128005981
+. g o o d:g o o d <adv>	0.7647461295127869
+g r e a t:g o o d <adv>	0.7640495300292969
+n i c e:g o o d <adv>	0.7610529065132141
+n o t - s o - g o o d:g o o d <adv>	0.7542024850845337
+g o o d - - a n d:g o o d <adv>	0.7472638487815857
+g o o d - e n o u g h:g o o d <adv>	0.7471091151237488
+t h e r e - i n:t h e r e <adv>	0.7526798844337463
+t h e r e r:t h e r e <adv>	0.7519063353538513
+t h e r e - - a n d:t h e r e <adv>	0.7315405011177063
+t h a t - - t h e r e:t h e r e <adv>	0.7313803434371948
+T h e r e:t h e r e <adv>	0.7306719422340393
+t h e r:t h e r e <adv>	0.7253789901733398
+t t h e r e:t h e r e <adv>	0.7249545454978943
+T t h e r e:t h e r e <adv>	0.7221375703811646
+t h e r e - - b u t:t h e r e <adv>	0.7174648642539978
+t h a t t h e r e:t h e r e <adv>	0.7084935903549194
+i n d e r:u n d e r <pr>	0.6784968376159668
+h e a d i n g:u n d e r <pr>	0.6591888070106506
+w i t h i n:u n d e r <pr>	0.6352020502090454
+u n d e r s:u n d e r <pr>	0.6278685927391052
+u n d e r n e a t h:u n d e r <pr>	0.6253024935722351
+U n d e r:u n d e r <pr>	0.6205806136131287
+u n d e:u n d e r <pr>	0.6187196373939514
+b e n e a t h:u n d e r <pr>	0.6160656213760376
+a u s p i c e s:u n d e r <pr>	0.615226686000824
+u n d e r s o o d:u n d e r <pr>	0.6086382269859314
+w a n t t o:w a n t <vblex>	0.8093563914299011
+w a n t i n g:w a n t <vblex>	0.7956157922744751
+w a n t e d:w a n t <vblex>	0.784881055355072
+n e e d:w a n t <vblex>	0.7834546566009521
+w a n t - - a n d:w a n t <vblex>	0.7569427490234375
+w i s h:w a n t <vblex>	0.7555837631225586
+w a n t o:w a n t <vblex>	0.7417746782302856
+w a n t s:w a n t <vblex>	0.7393701672554016
+d o:w a n t <vblex>	0.73292475938797
+w a n t a:w a n t <vblex>	0.7327378392219543
+p o t a t o e s:p o t a t o <n>	0.8188288807868958
+p o t a t o e:p o t a t o <n>	0.7960103154182434
+p o t a t o s:p o t a t o <n>	0.7657852172851562
+t o m a t o:p o t a t o <n>	0.7088788747787476
+s w e e t p o t a t o:p o t a t o <n>	0.7059584856033325
+c a b b a g e:p o t a t o <n>	0.6964780688285828
+s w e e t - p o t a t o:p o t a t o <n>	0.6910361647605896
+p o t a h t o:p o t a t o <n>	0.6853808760643005
+p o t a t o - c h i p:p o t a t o <n>	0.6823438405990601
+P o t a t o:p o t a t o <n>	0.6779394149780273
+i s - - w h a t:w h a t <prn>	0.8000299334526062
+w w h a t:w h a t <prn>	0.7841921448707581
+i t - - w h a t:w h a t <prn>	0.7563996911048889
+h o w:w h a t <prn>	0.7551450729370117
+e x a c t l y:w h a t <prn>	0.7551205158233643
+w h a t v e r:w h a t <prn>	0.7489439249038696
+w h a t e v e r:w h a t <prn>	0.7464053630828857
+- w h a t:w h a t <prn>	0.7434251308441162
+o f w h a t:w h a t <prn>	0.738854706287384
+w h a t s:w h a t <prn>	0.7387182116508484
+l i k k l e:l i k e <pr>	0.7184320688247681
+l i k e e:l i k e <pr>	0.7086602449417114
+l i k e y:l i k e <pr>	0.6971442699432373
+l i k e i n g:l i k e <pr>	0.69162517786026
+l i k e - - a n d:l i k e <pr>	0.6909753084182739
+l l i k e:l i k e <pr>	0.6837096214294434
+s e e e m:l i k e <pr>	0.6818657517433167
+l i k e l e y:l i k e <pr>	0.6775462031364441
+l i k e s:l i k e <pr>	0.6720850467681885
+l o o o o v e:l i k e <pr>	0.6708044409751892
+u p s t r e a m:d o w n s t r e a m <adv>	0.9218900203704834
+d o w n - s t r e a m:d o w n s t r e a m <adv>	0.7993050813674927
+u p - s t r e a m:d o w n s t r e a m <adv>	0.7484631538391113
+d o w n r i v e r:d o w n s t r e a m <adv>	0.7271948456764221
+d o w n - r i v e r:d o w n s t r e a m <adv>	0.7087187767028809
+u p - r i v e r:d o w n s t r e a m <adv>	0.7021784782409668
+u p s t r e a m s:d o w n s t r e a m <adv>	0.6936367154121399
+u p s t r e a m i n g:d o w n s t r e a m <adv>	0.6406564712524414
+D o w n s t r e a m:d o w n s t r e a m <adv>	0.6398100256919861
+u p r i v e r:d o w n s t r e a m <adv>	0.634726881980896
+h i d e s:h i d e <vblex>	0.8055387139320374
+c o n c e a l:h i d e <vblex>	0.7836210131645203
+h i d e n:h i d e <vblex>	0.7777395248413086
+h i d i n g:h i d e <vblex>	0.773352861404419
+h i d:h i d e <vblex>	0.7638055086135864
+u n h i d e:h i d e <vblex>	0.7375378012657166
+h i d e r:h i d e <vblex>	0.7360749840736389
+h i d d e n:h i d e <vblex>	0.7242158055305481
+h i d e y:h i d e <vblex>	0.7204654216766357
+u n - h i d e:h i d e <vblex>	0.719544529914856
+d i s o b e d i e n c e:d i s o b e d i e n t <vblex>	0.7602667808532715
+o b e d i e n t:d i s o b e d i e n t <vblex>	0.7317590713500977
+r e b e l l i o u s:d i s o b e d i e n t <vblex>	0.7246941328048706
+c i v i l - d i s o b e d i e n c e:d i s o b e d i e n t <vblex>	0.6727418899536133
+i n s u b o r d i n a t e:d i s o b e d i e n t <vblex>	0.6707445979118347
+i n s o l e n t:d i s o b e d i e n t <vblex>	0.668696403503418
+u n r u l y:d i s o b e d i e n t <vblex>	0.6650533080101013
+r e b e l l i o u s l y:d i s o b e d i e n t <vblex>	0.6585637331008911
+d i s o b e y:d i s o b e d i e n t <vblex>	0.6583547592163086
+u n c o o p e r a t i v e:d i s o b e d i e n t <vblex>	0.6535096764564514
+s a y -:s a y <vblex>	0.7654475569725037
+s a y - -:s a y <vblex>	0.7532973885536194
+s a y - - a n d:s a y <vblex>	0.74455326795578
+s a y i n g:s a y <vblex>	0.7387149930000305
+a r g u e:s a y <vblex>	0.7364857792854309
+t h i n k:s a y <vblex>	0.7330525517463684
+s a y - - t h a t:s a y <vblex>	0.7248737215995789
+s u p p o s e:s a y <vblex>	0.7240169048309326
+t e l l:s a y <vblex>	0.7224746942520142
+k n o w:s a y <vblex>	0.7101417183876038
+w i t h e:w i t h <pr>	0.7294006943702698
+w i t h g:w i t h <pr>	0.7143853902816772
+w i t h y:w i t h <pr>	0.7106117606163025
+w i t h t h e:w i t h <pr>	0.7098634243011475
+w i t h s:w i t h <pr>	0.695725679397583
+w w i t h:w i t h <pr>	0.6927952766418457
+o u t - w i t h:w i t h <pr>	0.6899387240409851
+a l o n g s i d e:w i t h <pr>	0.683168351650238
+f r o m:w i t h <pr>	0.677761971950531
+w i t h t:w i t h <pr>	0.6720123887062073
+b e l i e v e:t h i n k <vblex>	0.8056010603904724
+s u p p o s e:t h i n k <vblex>	0.7703558802604675
+s a y:t h i n k <vblex>	0.7330525517463684
+t h i n k - - a n d:t h i n k <vblex>	0.728615403175354
+t h i n k g:t h i n k <vblex>	0.7284865379333496
+k n o w:t h i n k <vblex>	0.7283918857574463
+t h o u g h t:t h i n k <vblex>	0.7257986068725586
+t h i n k . I:t h i n k <vblex>	0.7253809571266174
+r e c k o n:t h i n k <vblex>	0.7237516045570374
+t h i i n k:t h i n k <vblex>	0.7236964106559753
+g r e a t - g r a n d f a t h e r:g r a n d f a t h e r <n>	0.8829778432846069
+s t e p - g r a n d f a t h e r:g r a n d f a t h e r <n>	0.8435568809509277
+g r a n d m o t h e r:g r a n d f a t h e r <n>	0.8388504385948181
+g r a n d s o n:g r a n d f a t h e r <n>	0.8369219303131104
+f a t h e r:g r a n d f a t h e r <n>	0.8283867835998535
+u n c l e:g r a n d f a t h e r <n>	0.8230973482131958
+g r e a t - u n c l e:g r a n d f a t h e r <n>	0.8229961395263672
+g r a n d - u n c l e:g r a n d f a t h e r <n>	0.8127003312110901
+g r e a t - g r e a t - g r a n d f a t h e r:g r a n d f a t h e r <n>	0.8105024695396423
+g r a n d f a t h e r s:g r a n d f a t h e r <n>	0.8089737892150879
+s t i l l:n o w <adv>	0.7777181267738342
+j u s t:n o w <adv>	0.7526832222938538
+p r e s e n t l y:n o w <adv>	0.7449209094047546
+t o d a y:n o w <adv>	0.7422304153442383
+n o w - - a n d:n o w <adv>	0.7356041669845581
+a l r e a d y:n o w <adv>	0.7319440245628357
+c u r r e n t l y:n o w <adv>	0.7238617539405823
+c e r t a i n l y:n o w <adv>	0.723444938659668
+n o w - - b u t:n o w <adv>	0.7202818393707275
+t h e n:n o w <adv>	0.7131215929985046
+d r i n k s:d r i n k <vblex>	0.8457768559455872
+d r i n k i n g:d r i n k <vblex>	0.8016822934150696
+d r i n k .:d r i n k <vblex>	0.7301977872848511
+b e e r:d r i n k <vblex>	0.7267361879348755
+d r i n k -:d r i n k <vblex>	0.7230697274208069
+d r a n k:d r i n k <vblex>	0.7127693295478821
+b e v e r a g e:d r i n k <vblex>	0.7059898376464844
+s o f t d r i n k:d r i n k <vblex>	0.7056204080581665
+l i q o u r:d r i n k <vblex>	0.7027400135993958
+s w i g:d r i n k <vblex>	0.6997206807136536
+d o e s:d o <vblex>	0.7629822492599487
+d i d:d o <vblex>	0.7529411911964417
+w a n t:d o <vblex>	0.7329248785972595
+c o n t i n u e:d o <vblex>	0.7247976064682007
+i n t e n d:d o <vblex>	0.7186409831047058
+g o:d o <vblex>	0.7166299223899841
+d o - - a n d:d o <vblex>	0.7112361192703247
+c o o u l d:d o <vblex>	0.7063400745391846
+c o u u l d:d o <vblex>	0.7053651213645935
+s h o i u l d:d o <vblex>	0.7039076685905457
+p l a n t s:p l a n t <vblex>	0.8425317406654358
+p l a n t -:p l a n t <vblex>	0.7212811708450317
+p l a n t l e t:p l a n t <vblex>	0.7192468643188477
+r e - p l a n t:p l a n t <vblex>	0.7149398922920227
+n o n - p l a n t:p l a n t <vblex>	0.7131410837173462
+p l a n t - g r o w i n g:p l a n t <vblex>	0.7020894289016724
+p l a n t s -:p l a n t <vblex>	0.7009478211402893
+p l a n t - l i f e:p l a n t <vblex>	0.6987681984901428
+p l a n t l i k e:p l a n t <vblex>	0.6915625929832458
+p l a n t - r e l a t e d:p l a n t <vblex>	0.6901944279670715
+r e - r e a d:r e a d <vblex>	0.806208074092865
+s k i m - r e a d:r e a d <vblex>	0.7783755660057068
+p r e - r e a d:r e a d <vblex>	0.7726660966873169
+s k i m r e a d:r e a d <vblex>	0.7500290274620056
+r e r e a d:r e a d <vblex>	0.7465226054191589
+w r i t e:r e a d <vblex>	0.74223393201828
+h a l f - r e a d:r e a d <vblex>	0.733087420463562
+r e a d e:r e a d <vblex>	0.7301486134529114
+r e a d - - a n d:r e a d <vblex>	0.7275974750518799
+r e a d i n g:r e a d <vblex>	0.7233507633209229
+w h e n e v e r:w h e n <adv>	0.7771915793418884
+a f t e r:w h e n <adv>	0.7291995286941528
+i f:w h e n <adv>	0.7238804697990417
+W h e n:w h e n <adv>	0.7028636932373047
+b e f o r e:w h e n <adv>	0.6988839507102966
+u n t i l:w h e n <adv>	0.6879050135612488
+w h i l e:w h e n <adv>	0.6872232556343079
+w h e r e:w h e n <adv>	0.6837055683135986
+- w h e n:w h e n <adv>	0.6715699434280396
+w h e n e:w h e n <adv>	0.6662554740905762
+b i r d s:b i r d <n>	0.8068050146102905
+h u m m i n g - b i r d:b i r d <n>	0.7695932984352112
+n o n - b i r d:b i r d <n>	0.7675741910934448
+b l a c k b i r d:b i r d <n>	0.7551829218864441
+h a l f - b i r d:b i r d <n>	0.7518876791000366
+b i r d y:b i r d <n>	0.7404177188873291
+s e a b i r d:b i r d <n>	0.7341761589050293
+b i r d -:b i r d <n>	0.7330871224403381
+m o u s e b i r d:b i r d <n>	0.7304573655128479
+s e a - b i r d:b i r d <n>	0.7291218638420105
+c a r r o t s:c a r r o t <n>	0.7817493677139282
+s t i c k:c a r r o t <n>	0.6821901202201843
+c a r r o t - a n d - s t i c k:c a r r o t <n>	0.670998752117157
+s t i c k s:c a r r o t <n>	0.6110215783119202
+c r a w:c a r r o t <n>	0.5846559405326843
+t u r n i p:c a r r o t <n>	0.5836329460144043
+C a r r o t:c a r r o t <n>	0.5712507367134094
+p a r s n i p:c a r r o t <n>	0.5709095597267151
+c a r r o t - s h a p e d:c a r r o t <n>	0.5693560838699341
+s w i z z l e:c a r r o t <n>	0.567767858505249
+c o l l e a g u e:f r i e n d <n>	0.7886344194412231
+g i r f r i e n d:f r i e n d <n>	0.7744683027267456
+f r i e n d s:f r i e n d <n>	0.7686108350753784
+w i k i f r i e n d:f r i e n d <n>	0.760101854801178
+e x - f r i e n d:f r i e n d <n>	0.7549664378166199
+b u d d y:f r i e n d <n>	0.7523247003555298
+s c h o o l f r i e n d:f r i e n d <n>	0.7508174180984497
+s c h o o l m a t e:f r i e n d <n>	0.7502447366714478
+f r i e n d - o f - a - f r i e n d:f r i e n d <n>	0.7424213290214539
+c l a s s m a t e:f r i e n d <n>	0.7402083277702332
+d i n e d:d i n e <vblex>	0.6812719702720642
+d i n e s:d i n e <vblex>	0.6746422648429871
+e a t:d i n e <vblex>	0.6343207359313965
+c a r o u s e:d i n e <vblex>	0.6107930541038513
+d i n n e r:d i n e <vblex>	0.5962921977043152
+d i n e t t e:d i n e <vblex>	0.5758056044578552
+n o s h:d i n e <vblex>	0.5732966065406799
+d i n e r:d i n e <vblex>	0.5684024095535278
+d i n e - i n:d i n e <vblex>	0.5631493330001831
+s c h m o o z e:d i n e <vblex>	0.5628530979156494
+d o g:p u p p y <n>	0.8071781992912292
+p u p p i e s:p u p p y <n>	0.7961868643760681
+p u p p y - d o g:p u p p y <n>	0.7823472023010254
+k i t t e n:p u p p y <n>	0.7802743315696716
+p u p:p u p p y <n>	0.7442807555198669
+p u p p y h o o d:p u p p y <n>	0.7435123920440674
+b e a g l e:p u p p y <n>	0.7259880304336548
+p o o c h:p u p p y <n>	0.7210524678230286
+p e t:p u p p y <n>	0.7180468440055847
+d o g g i e:p u p p y <n>	0.7123719453811646
+t e r r i f y:f r i g h t e n <vblex>	0.8456194400787354
+i n t i m i d a t e:f r i g h t e n <vblex>	0.7874643206596375
+f r i g h t e n s:f r i g h t e n <vblex>	0.7593634724617004
+s c a r i n g:f r i g h t e n <vblex>	0.7394790053367615
+u n n e r v e:f r i g h t e n <vblex>	0.7234123945236206
+a n n o y:f r i g h t e n <vblex>	0.7154568433761597
+h o r r i f y:f r i g h t e n <vblex>	0.7129636406898499
+s c a r e:f r i g h t e n <vblex>	0.7121138572692871
+e n r a g e:f r i g h t e n <vblex>	0.7055161595344543
+f r i g h t e n e d:f r i g h t e n <vblex>	0.6942635774612427
+c l a p p i n g:c l a p <vblex>	0.7565706968307495
+c l a p s:c l a p <vblex>	0.7318667769432068
+h a n d c l a p:c l a p <vblex>	0.697590708732605
+c l a p p e r s:c l a p <vblex>	0.6419707536697388
+c l a p p e d:c l a p <vblex>	0.6392416954040527
+s h o u t:c l a p <vblex>	0.6364267468452454
+t h u n d e r c l a p:c l a p <vblex>	0.6253315806388855
+w h o o p:c l a p <vblex>	0.6174306273460388
+h a n d - c l a p:c l a p <vblex>	0.6169306039810181
+h a n d c l a p p i n g:c l a p <vblex>	0.6076290011405945
+b a b i e s:b a b y <n>	0.8120793104171753
+b a b y -:b a b y <n>	0.8090013861656189
+n e w b o r n:b a b y <n>	0.7990638613700867
+b a b y g r o:b a b y <n>	0.7601360082626343
+i n f a n t:b a b y <n>	0.7587703466415405
+b a b y s:b a b y <n>	0.7444859743118286
+b a b y .:b a b y <n>	0.7441999316215515
+b a b y g i r l:b a b y <n>	0.7441479563713074
+m o t h e r - b a b y:b a b y <n>	0.7394305467605591
+c h i l d:b a b y <n>	0.7246148586273193
+d e f i n i t e l y:s t i l l <adv>	0.7853382229804993
+c e r t a i n l y:s t i l l <adv>	0.7790272235870361
+n o w:s t i l l <adv>	0.7777183055877686
+a l s o:s t i l l <adv>	0.7776816487312317
+s t i l:s t i l l <adv>	0.7686821818351746
+r e a l l y:s t i l l <adv>	0.7685741782188416
+s t i l l l:s t i l l <adv>	0.7621981501579285
+a c t u a l l y:s t i l l <adv>	0.757712721824646
+s t i l l y:s t i l l <adv>	0.7559964656829834
+r e m a i n:s t i l l <adv>	0.7496638298034668
+g r e a t - g r a n d m o t h e r:g r a n d m o t h e r <n>	0.8843752145767212
+a u n t:g r a n d m o t h e r <n>	0.852733850479126
+s t e p - g r a n d m o t h e r:g r a n d m o t h e r <n>	0.8457216620445251
+g r a n d f a t h e r:g r a n d m o t h e r <n>	0.8388503789901733
+m o t h e r:g r a n d m o t h e r <n>	0.8285276889801025
+g r a n d m o t h e r - i n - l a w:g r a n d m o t h e r <n>	0.823552668094635
+g r a n d d a u g h t e r:g r a n d m o t h e r <n>	0.8094834089279175
+s t e p - g r a n d f a t h e r:g r a n d m o t h e r <n>	0.8054128885269165
+g r e a t - g r e a t - g r a n d m o t h e r:g r a n d m o t h e r <n>	0.7956898212432861
+g r a n d p a r e n t s:g r a n d m o t h e r <n>	0.7812097072601318
+p r a y i n g:p r a y <vblex>	0.7479533553123474
+p r a y s:p r a y <vblex>	0.7360482215881348
+p r a y e r:p r a y <vblex>	0.7152912616729736
+p r a y e d:p r a y <vblex>	0.7095829844474792
+b l e s s:p r a y <vblex>	0.6877989768981934
+p r a y t e l l:p r a y <vblex>	0.6864166855812073
+m e d i t a t e:p r a y <vblex>	0.6675042510032654
+p r a y e t h:p r a y <vblex>	0.656309187412262
+s u p p l i c a t e:p r a y <vblex>	0.6533931493759155
+p r a y e r s:p r a y <vblex>	0.6475615501403809
+f i n a l l y:t h e n <adv>	0.7613959312438965
+e v e n t u a l l y:t h e n <adv>	0.7331651449203491
+s u b s e q u e n t l y:t h e n <adv>	0.7249744534492493
+j u s t:t h e n <adv>	0.7136695384979248
+n o w:t h e n <adv>	0.713121771812439
+a g a i n:t h e n <adv>	0.7123757600784302
+t h e r e f o r e:t h e n <adv>	0.7081385850906372
+s o:t h e n <adv>	0.7024637460708618
+i n s t e a d:t h e n <adv>	0.6878046989440918
+l a s t l y:t h e n <adv>	0.6877744793891907
+r u b s:r u b <vblex>	0.7283849120140076
+r u b b i n g:r u b <vblex>	0.718035101890564
+r u b b e d:r u b <vblex>	0.6798039078712463
+r u b - d o w n:r u b <vblex>	0.6208524107933044
+r u b - o n:r u b <vblex>	0.6173902750015259
+r u b d o w n:r u b <vblex>	0.603293240070343
+b a c k r u b:r u b <vblex>	0.5999758839607239
+r u b - o f f:r u b <vblex>	0.5769472718238831
+s p i t:r u b <vblex>	0.5736361742019653
+s l a p:r u b <vblex>	0.5628392100334167
+l o s i n g:l o s e <vblex>	0.8046249151229858
+l o s e s:l o s e <vblex>	0.8031684756278992
+l o s t:l o s e <vblex>	0.7680144309997559
+g a i n:l o s e <vblex>	0.753909170627594
+r e g a i n:l o s e <vblex>	0.737952470779419
+l o s e d:l o s e <vblex>	0.7078086137771606
+r e - g a i n:l o s e <vblex>	0.7071425318717957
+w i n:l o s e <vblex>	0.703752338886261
+l o s e i n g:l o s e <vblex>	0.6980482339859009
+r e t a i n:l o s e <vblex>	0.6947363615036011
+t h e i r:o w n <vblex>	0.7664193511009216
+o w n - - a n d:o w n <vblex>	0.7280847430229187
+o w n -:o w n <vblex>	0.7251775860786438
+o w n l y:o w n <vblex>	0.7124926447868347
+h i s:o w n <vblex>	0.7035233974456787
+o w n - -:o w n <vblex>	0.6985332369804382
+i t s:o w n <vblex>	0.6926872730255127
+o w n a b l e:o w n <vblex>	0.6898881793022156
+o w n i n g:o w n <vblex>	0.6565003395080566
+p a r t - o w n:o w n <vblex>	0.655367910861969
+e v e y:e v e r y <det>	0.7624251246452332
+E V E R Y:e v e r y <det>	0.7491165399551392
+e a c h:e v e r y <det>	0.7139657139778137
+E v e r y:e v e r y <det>	0.7040643692016602
+o n e:e v e r y <det>	0.6788020133972168
+- e v e r y:e v e r y <det>	0.6733953356742859
+e v e r y - o t h e r:e v e r y <det>	0.6634930372238159
+e v e r y -:e v e r y <det>	0.6622558236122131
+e n t i r e:e v e r y <det>	0.6607822775840759
+l a s t:e v e r y <det>	0.6551011800765991
+n e w l y -:n e w l y <adv>	0.8102011680603027
+f r e s h l y:n e w l y <adv>	0.7876251935958862
+t h e n - n e w l y:n e w l y <adv>	0.7158982157707214
+N e w l y:n e w l y <adv>	0.703117311000824
+s o o n - t o - b e:n e w l y <adv>	0.6796684265136719
+n e w:n e w l y <adv>	0.6624696254730225
+y e t - t o - b e:n e w l y <adv>	0.6361005306243896
+n e w l y - m a d e:n e w l y <adv>	0.6250121593475342
+n e w l y - c r e a t e d:n e w l y <adv>	0.6126816868782043
+n e w l y - e s t a b l i s h e d:n e w l y <adv>	0.610960841178894
+f i n a l l l y:f i n a l l y <adv>	0.8375298976898193
+e v e n t u a l l y:f i n a l l y <adv>	0.814667284488678
+u l t i m a t e l y:f i n a l l y <adv>	0.7664726972579956
+t h e n:f i n a l l y <adv>	0.7613955140113831
+s u b s e q u e n t l y:f i n a l l y <adv>	0.7581234574317932
+e v e n t a l l y:f i n a l l y <adv>	0.7407795190811157
+f i n a l l:f i n a l l y <adv>	0.7221242189407349
+f i n i a l l y:f i n a l l y <adv>	0.7197415828704834
+f i n a l y:f i n a l l y <adv>	0.7144063711166382
+g r a d u a l l y:f i n a l l y <adv>	0.7120204567909241
+f l i e s:f l y <vblex>	0.7964636087417603
+f l y i n g:f l y <vblex>	0.7852187752723694
+f l i e:f l y <vblex>	0.7640939950942993
+f l y s:f l y <vblex>	0.748528242111206
+f l i e d:f l y <vblex>	0.6981363296508789
+f l e w:f l y <vblex>	0.6904953718185425
+b l o w - f l y:f l y <vblex>	0.6850300431251526
+s w a t t e r:f l y <vblex>	0.6800314784049988
+f l y i n:f l y <vblex>	0.6796186566352844
+b o t f l y:f l y <vblex>	0.6709780097007751
+c r o w s:c r o w <n>	0.7806417346000671
+r o o s t e r:c r o w <n>	0.6544758081436157
+c o c k - c r o w:c r o w <n>	0.65378737449646
+r a v e n:c r o w <n>	0.6520834565162659
+b i r d:c r o w <n>	0.6501689553260803
+b u z z a r d:c r o w <n>	0.6428195834159851
+s p a r r o w:c r o w <n>	0.6393350958824158
+c r o w i n g:c r o w <n>	0.6176348924636841
+b l a c k b i r d:c r o w <n>	0.6161670684814453
+c o c k:c r o w <n>	0.6122941970825195
+f a t h e r:m o t h e r <n>	0.8839511275291443
+g r a n d m o t h e r:m o t h e r <n>	0.828527569770813
+d a u g h t e r:m o t h e r <n>	0.8151000738143921
+s o n:m o t h e r <n>	0.7833114862442017
+s t e p - m o t h e r:m o t h e r <n>	0.7810223698616028
+w i f e:m o t h e r <n>	0.7730180025100708
+s t e p f a t h e r:m o t h e r <n>	0.7722831964492798
+h u s b a n d:m o t h e r <n>	0.772110641002655
+m o t h e r - i n:m o t h e r <n>	0.7706757187843323
+c h i l d:m o t h e r <n>	0.7654837965965271
+s o n:d a u g h t e r <n>	0.8847967982292175
+g r a n d d a u g h t e r:d a u g h t e r <n>	0.86932772397995
+d a u g h t e r - i n - l a w:d a u g h t e r <n>	0.8536792397499084
+s t e p d a u g h t e r:d a u g h t e r <n>	0.8347174525260925
+w i f e:d a u g h t e r <n>	0.8345507979393005
+s t e p - d a u g h t e r:d a u g h t e r <n>	0.832953155040741
+g r a n d a u g h t e r:d a u g h t e r <n>	0.8292531371116638
+d a u g h t e r s:d a u g h t e r <n>	0.8234606385231018
+m o t h e r:d a u g h t e r <n>	0.815099835395813
+g o d d a u g h t e r:d a u g h t e r <n>	0.8118934035301208
+w e t:d r y <vblex>	0.856685996055603
+s e m i - d r y:d r y <vblex>	0.7738559246063232
+w e t - d r y:d r y <vblex>	0.7725855708122253
+d r y i s h:d r y <vblex>	0.7674981951713562
+d r y -:d r y <vblex>	0.7509269118309021
+d r y - d o w n:d r y <vblex>	0.732629120349884
+b o n e - d r y:d r y <vblex>	0.731605589389801
+a i r - d r y:d r y <vblex>	0.7298585772514343
+m e d i u m - d r y:d r y <vblex>	0.7288726568222046
+m o i s t:d r y <vblex>	0.7196594476699829
+S p i r i t s:S p i r i t <n>	0.7542484998703003
+S p i r t:S p i r i t <n>	0.7456261515617371
+S p r i t:S p i r i t <n>	0.7389729022979736
+D i v i n e:S p i r i t <n>	0.6745463013648987
+S p i r i t a n:S p i r i t <n>	0.6711099147796631
+S p i r i t - l e d:S p i r i t <n>	0.6633899807929993
+S p i r i t u a l l:S p i r i t <n>	0.6585097312927246
+V i c S p i r i t:S p i r i t <n>	0.650854766368866
+S p i r i t i s t:S p i r i t <n>	0.6494647860527039
+D i v i n e r:S p i r i t <n>	0.6458746194839478
+f o l l l o w:f o l l o w <vblex>	0.7930141091346741
+f o l l o w s:f o l l o w <vblex>	0.7709388136863708
+f o l l o w e d:f o l l o w <vblex>	0.7443030476570129
+f o l o w:f o l l o w <vblex>	0.7379974722862244
+f o l l w e d:f o l l o w <vblex>	0.7001193761825562
+f o l l o w e s:f o l l o w <vblex>	0.6954507231712341
+f o l l o w i n g:f o l l o w <vblex>	0.6900956630706787
+f o l l o w e:f o l l o w <vblex>	0.6847410202026367
+u n f o l l o w:f o l l o w <vblex>	0.665655791759491
+f o l l i n g:f o l l o w <vblex>	0.6652819514274597
+t o d a y:y e s t e r d a y <adv>	0.7671588063240051
+t o n i g h t:y e s t e r d a y <adv>	0.7614346146583557
+t o m o r r o w:y e s t e r d a y <adv>	0.739830732345581
+y e s t e r d a y -:y e s t e r d a y <adv>	0.7182714939117432
+y e s t e r d a y s:y e s t e r d a y <adv>	0.705037534236908
+T u e s d a y:y e s t e r d a y <adv>	0.7033161520957947
+y e s t e d a y:y e s t e r d a y <adv>	0.6868017315864563
+M o n d a y:y e s t e r d a y <adv>	0.6865770816802979
+T h u r s d a y:y e s t e r d a y <adv>	0.6850458383560181
+y e s t u r d a y:y e s t e r d a y <adv>	0.6830712556838989
+f r o g s:f r o g <n>	0.8268311023712158
+b u l l f r o g:f r o g <n>	0.806303083896637
+t o a d:f r o g <n>	0.7559303641319275
+f r o g l e t:f r o g <n>	0.7128336429595947
+t r e e f r o g:f r o g <n>	0.6961544752120972
+f r o g g y:f r o g <n>	0.6899598836898804
+t o a d s:f r o g <n>	0.6834518313407898
+b u l l f r o g s:f r o g <n>	0.6784924268722534
+f r o g l i k e:f r o g <n>	0.6770919561386108
+t a d p o l e:f r o g <n>	0.6768819093704224
+w e a r i n g:w e a r <vblex>	0.8169439435005188
+w e a r s:w e a r <vblex>	0.7680610418319702
+w e a r -:w e a r <vblex>	0.7558600306510925
+w o r e:w e a r <vblex>	0.7257009744644165
+l e g w e a r:w e a r <vblex>	0.7171267867088318
+d r e s s:w e a r <vblex>	0.7170048952102661
+w o r n:w e a r <vblex>	0.714624285697937
+h e a d w e a r:w e a r <vblex>	0.6952605843544006
+w e a r e r:w e a r <vblex>	0.6907973289489746
+w e a r e r s:w e a r <vblex>	0.6872071623802185
+m a n:w o m a n <n>	0.8119809031486511
+w o m a n - -:w o m a n <n>	0.7959197759628296
+l a d y:w o m a n <n>	0.7750155925750732
+g i r l:w o m a n <n>	0.7577244639396667
+w o m a n -:w o m a n <n>	0.7568190097808838
+w o m a n s:w o m a n <n>	0.7453513741493225
+w o m e n:w o m a n <n>	0.7260428667068481
+c h i l d - w o m a n:w o m a n <n>	0.7223398089408875
+t r a n s - w o m a n:w o m a n <n>	0.7164039611816406
+w o m a n - c h i l d:w o m a n <n>	0.7128440141677856
+r e t u r n i n g:r e t u r n <vblex>	0.8034416437149048
+r e t u r n s:r e t u r n <vblex>	0.802812397480011
+n o n - r e t u r n:r e t u r n <vblex>	0.7598194479942322
+r e t u r n e d:r e t u r n <vblex>	0.7445731163024902
+r e t u r n -:r e t u r n <vblex>	0.7220353484153748
+r e t u n:r e t u r n <vblex>	0.7003375887870789
+n o - r e t u r n:r e t u r n <vblex>	0.6988798975944519
+r e t u r n .:r e t u r n <vblex>	0.6775949597358704
+r e t u r i n g:r e t u r n <vblex>	0.6735525727272034
+r e t u r n e:r e t u r n <vblex>	0.6630148887634277
+w a l k i n g:w a l k <vblex>	0.7170429825782776
+c r o s s - w a l k:w a l k <vblex>	0.7055901288986206
+w a l k -:w a l k <vblex>	0.6955434083938599
+w a l k .:w a l k <vblex>	0.693373441696167
+s t r o l l:w a l k <vblex>	0.674965500831604
+b u s h w a l k:w a l k <vblex>	0.6687487363815308
+w a l l - w a l k:w a l k <vblex>	0.6679553985595703
+w a l k s:w a l k <vblex>	0.6623595356941223
+w a l k e d:w a l k <vblex>	0.646443784236908
+s p a c e - w a l k:w a l k <vblex>	0.638471245765686
+a l r i g h t:o k a y <ij>	0.9112236499786377
+o k:o k a y <ij>	0.9108715653419495
+O K:o k a y <ij>	0.8853563666343689
+a - o k a y:o k a y <ij>	0.8766053318977356
+A - o k a y:o k a y <ij>	0.8393070101737976
+a l l r i g h t:o k a y <ij>	0.7792908549308777
+o k a y - i s h:o k a y <ij>	0.768998920917511
+O o o k a y:o k a y <ij>	0.7425513863563538
+a l r i g h t y:o k a y <ij>	0.7338947653770447
+A - O k a y:o k a y <ij>	0.7229034304618835
+p e r s o n s:p e r s o n <n>	0.7390832901000977
+m a n:p e r s o n <n>	0.7203925848007202
+n o n - p e r s o n:p e r s o n <n>	0.7137919068336487
+s o m e o n e:p e r s o n <n>	0.7080656886100769
+p r s o n:p e r s o n <n>	0.7064862847328186
+p e r s o n -:p e r s o n <n>	0.7060568332672119
+p e s o n:p e r s o n <n>	0.7006922960281372
+p e r s o n - -:p e r s o n <n>	0.6922355890274048
+i n d i v i d u a l:p e r s o n <n>	0.6833933591842651
+w o m a n:p e r s o n <n>	0.6830309629440308
+c o o k s:c o o k <vblex>	0.7969167828559875
+c o o k i n g:c o o k <vblex>	0.7338619828224182
+c o o k .:c o o k <vblex>	0.7278574705123901
+c o o k e:c o o k <vblex>	0.7257364988327026
+u n d e r c o o k:c o o k <vblex>	0.7182013392448425
+c o o k - u p:c o o k <vblex>	0.7065669894218445
+s l o w - c o o k:c o o k <vblex>	0.6947699785232544
+c o o k e d:c o o k <vblex>	0.6932967901229858
+c o o k - o u t:c o o k <vblex>	0.6865673065185547
+c o o k i n:c o o k <vblex>	0.6854586005210876
+a s k i n g:a s k <vblex>	0.8223827481269836
+a s k e d:a s k <vblex>	0.7978747487068176
+r e - a s k:a s k <vblex>	0.7905181050300598
+a s k - -:a s k <vblex>	0.7641478776931763
+a s k -:a s k <vblex>	0.763654887676239
+a s k s:a s k <vblex>	0.7604073882102966
+a s k i g n:a s k <vblex>	0.7402288317680359
+a s k e:a s k <vblex>	0.7347926497459412
+a s k e s:a s k <vblex>	0.7326725125312805
+r e a s k:a s k <vblex>	0.7297418713569641
+S i n c e:s i n c e <pr>	0.7254319190979004
+s i n c e s:s i n c e <pr>	0.7053903341293335
+- s i n c e:s i n c e <pr>	0.7019084095954895
+t h o u g h:s i n c e <pr>	0.6948280930519104
+b e c a u s e:s i n c e <pr>	0.6891745924949646
+e v e r s i n c e:s i n c e <pr>	0.6854279637336731
+b e f o r e:s i n c e <pr>	0.6789345145225525
+a f t e r:s i n c e <pr>	0.6753007173538208
+u n t i l:s i n c e <pr>	0.6733670830726624
+s i n c e -:s i n c e <pr>	0.6591793298721313
+s k u n k s:s k u n k <n>	0.7656631469726562
+s k u n k y:s k u n k <n>	0.7507688999176025
+s k u n k - l i k e:s k u n k <n>	0.6920583844184875
+s k u n k e d:s k u n k <n>	0.6283707022666931
+S k u n k:s k u n k <n>	0.6126192212104797
+r a c c o o n:s k u n k <n>	0.6112068891525269
+h o g - n o s e d:s k u n k <n>	0.5893272757530212
+w e e d:s k u n k <n>	0.5804668068885803
+r a c o o n:s k u n k <n>	0.5798550844192505
+s t i n k w e e d:s k u n k <n>	0.5663570165634155
+l i k k l e:l i k e <vblex>	0.7184320688247681
+l i k e e:l i k e <vblex>	0.7086602449417114
+l i k e y:l i k e <vblex>	0.6971442699432373
+l i k e i n g:l i k e <vblex>	0.69162517786026
+l i k e - - a n d:l i k e <vblex>	0.6909753084182739
+l l i k e:l i k e <vblex>	0.6837096214294434
+s e e e m:l i k e <vblex>	0.6818657517433167
+l i k e l e y:l i k e <vblex>	0.6775462031364441
+l i k e s:l i k e <vblex>	0.6720850467681885
+l o o o o v e:l i k e <vblex>	0.6708044409751892
+r e - f i n d:f i n d <vblex>	0.7803917527198792
+r e f i n d:f i n d <vblex>	0.7656962871551514
+d i s c o v e r:f i n d <vblex>	0.7513750195503235
+f i n d s:f i n d <vblex>	0.7411229610443115
+f i n d i n g:f i n d <vblex>	0.7320114970207214
+f i n d a:f i n d <vblex>	0.7315830588340759
+f o u n d:f i n d <vblex>	0.7216280698776245
+l o c a t e:f i n d <vblex>	0.7147272229194641
+s e e:f i n d <vblex>	0.7059275507926941
+c l a i f y:f i n d <vblex>	0.7033267617225647
+s i n g i n g:s i n g <vblex>	0.7245777249336243
+s a n g:s i n g <vblex>	0.7205860614776611
+s i n g s:s i n g <vblex>	0.6848790049552917
+s u n g:s i n g <vblex>	0.6621665954589844
+r e c i t e:s i n g <vblex>	0.6240083575248718
+p e r f o r m:s i n g <vblex>	0.6135138869285583
+s o n g:s i n g <vblex>	0.6127375960350037
+v o c a l i z e:s i n g <vblex>	0.6121615767478943
+v o c a l i s e:s i n g <vblex>	0.6104227304458618
+l i s t e n:s i n g <vblex>	0.5987673997879028
+h u n t s:h u n t <vblex>	0.8341293931007385
+h u n t i n g:h u n t <vblex>	0.8152340650558472
+h u n t e r:h u n t <vblex>	0.7754709720611572
+h u n t e r s:h u n t <vblex>	0.7554759383201599
+f o x h u n t:h u n t <vblex>	0.7396219968795776
+h u n t i n:h u n t <vblex>	0.7371906042098999
+m a n - h u n t:h u n t <vblex>	0.7339334487915039
+h u n t a b l e:h u n t <vblex>	0.6980125904083252
+b o w h u n t e r:h u n t <vblex>	0.68787682056427
+c h a s e:h u n t <vblex>	0.6812054514884949
+v i c e - c h i e f:c h i e f <n>	0.7692546248435974
+s u b - c h i e f:c h i e f <n>	0.7662975788116455
+d e p u t y:c h i e f <n>	0.7478371858596802
+c o - c h i e f:c h i e f <n>	0.7464504241943359
+c h i e f s:c h i e f <n>	0.7341120839118958
+e x - c h i e f:c h i e f <n>	0.7286940217018127
+c h i e f 1 n a m e:c h i e f <n>	0.7154353857040405
+i n - c h i e f:c h i e f <n>	0.7153097987174988
+o f f i c e r:c h i e f <n>	0.7117630243301392
+c h i e f - e x e c u t i v e:c h i e f <n>	0.7029826641082764
+s t a n d s:s t a n d <vblex>	0.8319106698036194
+s t a n d i n g:s t a n d <vblex>	0.7716341018676758
+s t o o d:s t a n d <vblex>	0.7525894641876221
+s t a n d e r:s t a n d <vblex>	0.7396997809410095
+s t a n d -:s t a n d <vblex>	0.7170727849006653
+t a n d:s t a n d <vblex>	0.6961211562156677
+s i t:s t a n d <vblex>	0.6867326498031616
+s t a n d e e:s t a n d <vblex>	0.6859492063522339
+s t a n d e r s:s t a n d <vblex>	0.6811152100563049
+s t a n d e d:s t a n d <vblex>	0.6749207973480225
+p u l l - o u t:p u l l o u t <vblex>	0.8174521327018738
+p u l l o u t s:p u l l o u t <vblex>	0.7181241512298584
+w i t h d r a w a l:p u l l o u t <vblex>	0.6203635931015015
+p u l l - o u t s:p u l l o u t <vblex>	0.6031827330589294
+r e d e p l o y m e n t:p u l l o u t <vblex>	0.5672208666801453
+P u l l o u t:p u l l o u t <vblex>	0.5665463209152222
+d r a w - d o w n:p u l l o u t <vblex>	0.5597453117370605
+r e d e p l o y m e n t s:p u l l o u t <vblex>	0.5573878288269043
+p u l l b a c k:p u l l o u t <vblex>	0.5492390990257263
+d i s e n g a g e m e n t:p u l l o u t <vblex>	0.5457400679588318
+h o l d i n g:h o l d <vblex>	0.7972130179405212
+h o l d s:h o l d <vblex>	0.778272271156311
+h e l d:h o l d <vblex>	0.7728520035743713
+h o l d e d:h o l d <vblex>	0.6977521181106567
+h o l d -:h o l d <vblex>	0.6881979703903198
+p u t:h o l d <vblex>	0.6833572387695312
+h o l d - o n:h o l d <vblex>	0.6747172474861145
+t a k e:h o l d <vblex>	0.6730478405952454
+t o e - h o l d:h o l d <vblex>	0.6709295511245728
+h o l d - o f f:h o l d <vblex>	0.6705267429351807
+o k a y:a l r i g h t <ij>	0.9112238883972168
+o k:a l r i g h t <ij>	0.8811730742454529
+a l l r i g h t:a l r i g h t <ij>	0.8496096134185791
+a - o k a y:a l r i g h t <ij>	0.8301668167114258
+O K:a l r i g h t <ij>	0.824400782585144
+A - o k a y:a l r i g h t <ij>	0.7956077456474304
+a l r i g h t y:a l r i g h t <ij>	0.7711761593818665
+a l r i g h t .:a l r i g h t <ij>	0.7529086470603943
+a l r i t e:a l r i g h t <ij>	0.7382565140724182
+o k a y - i s h:a l r i g h t <ij>	0.7264378070831299
+h o n o r:h o n o u r <vblex>	0.8292143940925598
+h o n o u r i n g:h o n o u r <vblex>	0.7962957620620728
+h o n o u r s:h o n o u r <vblex>	0.7803943753242493
+d i s h o n o u r:h o n o u r <vblex>	0.7759910821914673
+h o n o u r y:h o n o u r <vblex>	0.7590948343276978
+h o n o u r e d:h o n o u r <vblex>	0.7536532878875732
+h o n o u r e e:h o n o u r <vblex>	0.737301230430603
+d i s h o n o u r s:h o n o u r <vblex>	0.7116174101829529
+d i s h o n o u r i n g:h o n o u r <vblex>	0.6973502039909363
+h o n o u r a b l e:h o n o u r <vblex>	0.6915094256401062
+r e t e a c h:t e a c h <vblex>	0.7996629476547241
+t e a c h s:t e a c h <vblex>	0.7557590007781982
+t e a c h e:t e a c h <vblex>	0.7487294673919678
+t e a c h e s:t e a c h <vblex>	0.7386170625686646
+t e a c h .:t e a c h <vblex>	0.7305759787559509
+t e a c h -:t e a c h <vblex>	0.720392107963562
+t e a c h i n g:t e a c h <vblex>	0.7102581858634949
+l e a r n:t e a c h <vblex>	0.7069464921951294
+i n s t r u c t:t e a c h <vblex>	0.7008959054946899
+r e - t e a c h:t e a c h <vblex>	0.6997596025466919
+s e w s:s e w <vblex>	0.706279456615448
+s e w i n g:s e w <vblex>	0.675846517086029
+k n i t:s e w <vblex>	0.6578817963600159
+s e w n:s e w <vblex>	0.6570127606391907
+s e w e d:s e w <vblex>	0.6456777453422546
+s t i t c h:s e w <vblex>	0.6398900747299194
+e m b r o i d e r:s e w <vblex>	0.6120738983154297
+s e w n - i n:s e w <vblex>	0.5650880932807922
+c r o c h e t:s e w <vblex>	0.5588734745979309
+k n i t t e d:s e w <vblex>	0.5467663407325745
+d r u m s:d r u m <vblex>	0.8013047575950623
+d r u m k i t:d r u m <vblex>	0.7370396852493286
+d r u m - k i t:d r u m <vblex>	0.7341103553771973
+d r u m m i n g:d r u m <vblex>	0.73282390832901
+h a n d - d r u m:d r u m <vblex>	0.720434844493866
+d r u m s e t:d r u m <vblex>	0.7175974249839783
+d d r u m:d r u m <vblex>	0.7170430421829224
+b a s s - d r u m:d r u m <vblex>	0.7125161290168762
+k i c k - d r u m:d r u m <vblex>	0.7035608291625977
+s n a r e - d r u m:d r u m <vblex>	0.692125141620636
+a n s w e r s:a n s w e r <vblex>	0.8641300797462463
+a n s w e r e:a n s w e r <vblex>	0.8143677711486816
+a n s w e r i n g:a n s w e r <vblex>	0.7907298803329468
+a n s w e r e r:a n s w e r <vblex>	0.7828012704849243
+a n s w e r e d:a n s w e r <vblex>	0.7727105617523193
+a n s w e r d:a n s w e r <vblex>	0.7684563398361206
+n o n - a n s w e r:a n s w e r <vblex>	0.7653801441192627
+q u e s t i o n:a n s w e r <vblex>	0.7620413303375244
+a n s w e r -:a n s w e r <vblex>	0.7505833506584167
+r e - a s k:a n s w e r <vblex>	0.744208574295044
+f e a t h e r s:f e a t h e r <n>	0.7897478938102722
+f e a t h e r e d:f e a t h e r <n>	0.7531813979148865
+f e a t h e r i n g:f e a t h e r <n>	0.7398260831832886
+f e a t h e r y:f e a t h e r <n>	0.6732456088066101
+f e a t h e r l e s s:f e a t h e r <n>	0.6375922560691833
+f e a t h e r - l i k e:f e a t h e r <n>	0.6253401041030884
+r u f f l e:f e a t h e r <n>	0.6021196246147156
+q u i l l:f e a t h e r <n>	0.5990617275238037
+f e a t h e r l i k e:f e a t h e r <n>	0.5974876284599304
+f e a t h e r - l i g h t:f e a t h e r <n>	0.5861364006996155
+l i v e -:l i v e <vblex>	0.7486770749092102
+l i v i n g:l i v e <vblex>	0.6956725716590881
+n o n - l i v e:l i v e <vblex>	0.6790213584899902
+l i v e d:l i v e <vblex>	0.67549729347229
+l i v e - o u t:l i v e <vblex>	0.6738913059234619
+l i v e s:l i v e <vblex>	0.669745683670044
+l i v e - f e e d:l i v e <vblex>	0.6691994071006775
+l i v e - v i d e o:l i v e <vblex>	0.6592103838920593
+l i v e - t o - a i r:l i v e <vblex>	0.6590991616249084
+l i v e - s t r e a m:l i v e <vblex>	0.6538635492324829
+m a y b e:p e r h a p s <adv>	0.861311674118042
+s u r e l y:p e r h a p s <adv>	0.8047764897346497
+p r o b a b l y:p e r h a p s <adv>	0.7960528135299683
+p o s s i b l y:p e r h a p s <adv>	0.7923014163970947
+P e r h a p s:p e r h a p s <adv>	0.7852136492729187
+c e r t a i n l y:p e r h a p s <adv>	0.7641453146934509
+p r e s u m a b l y:p e r h a p s <adv>	0.7592280507087708
+- p e r h a p s:p e r h a p s <adv>	0.7567095160484314
+a r g u a b l y:p e r h a p s <adv>	0.7435793280601501
+n o t - - b u t:p e r h a p s <adv>	0.7275626063346863
+d r i v e s:d r i v e <vblex>	0.8504801988601685
+d r i v i n g:d r i v e <vblex>	0.7734490036964417
+d r i v e - o f f:d r i v e <vblex>	0.7416092753410339
+d r o v e:d r i v e <vblex>	0.7349056601524353
+d r i v e -:d r i v e <vblex>	0.7306597828865051
+d r i v e n:d r i v e <vblex>	0.7285465002059937
+o u t d r i v e:d r i v e <vblex>	0.727003276348114
+f l a s h d r i v e:d r i v e <vblex>	0.7006465196609497
+d r i v e d:d r i v e <vblex>	0.6996487379074097
+t h u m b d r i v e:d r i v e <vblex>	0.6838228702545166
+s c r e a m s:s c r e a m <vblex>	0.8074909448623657
+s c r e a m i n g:s c r e a m <vblex>	0.8063796758651733
+s h r i e k:s c r e a m <vblex>	0.7649253010749817
+s h o u t:s c r e a m <vblex>	0.7597894668579102
+y e l l:s c r e a m <vblex>	0.7578081488609314
+s c r e e c h:s c r e a m <vblex>	0.7469201683998108
+c r y:s c r e a m <vblex>	0.7237911224365234
+w a i l:s c r e a m <vblex>	0.7193146347999573
+y e l p:s c r e a m <vblex>	0.7147939205169678
+s h r i e k i n g:s c r e a m <vblex>	0.7128750085830688
+f i s h e s:f i s h <vblex>	0.8330283761024475
+n o n - f i s h:f i s h <vblex>	0.832639753818512
+g a r f i s h:f i s h <vblex>	0.7906208038330078
+f i s h -:f i s h <vblex>	0.7869920134544373
+r e d f i s h:f i s h <vblex>	0.772567093372345
+m o n k f i s h:f i s h <vblex>	0.7610936760902405
+f i s h l e s s:f i s h <vblex>	0.7576563358306885
+s p o r t f i s h:f i s h <vblex>	0.7559645771980286
+f i s h i e s:f i s h <vblex>	0.7556594610214233
+b a i t f i s h:f i s h <vblex>	0.7538822293281555
+m o t h e r:f a t h e r <n>	0.8839511275291443
+s o n:f a t h e r <n>	0.8652015924453735
+g r a n d f a t h e r:f a t h e r <n>	0.8283871412277222
+s t e p f a t h e r:f a t h e r <n>	0.8248535990715027
+s t e p - f a t h e r:f a t h e r <n>	0.8194728493690491
+s t e p - g r a n d f a t h e r:f a t h e r <n>	0.8105135560035706
+b r o t h e r:f a t h e r <n>	0.8104279637336731
+f a t h e r - i n - l a w:f a t h e r <n>	0.7986698746681213
+u n c l e:f a t h e r <n>	0.795230507850647
+g r a n d s o n:f a t h e r <n>	0.7864935398101807
+l e s s:m o r e <adv>	0.8865627646446228
+- m o r e:m o r e <adv>	0.7759332060813904
+m u c h:m o r e <adv>	0.7673272490501404
+f e w e r:m o r e <adv>	0.7530670166015625
+m o r e e:m o r e <adv>	0.7331812977790833
+m o r e - a n d - m o r e:m o r e <adv>	0.7323886752128601
+f a r - m o r e:m o r e <adv>	0.7307529449462891
+m m o r e:m o r e <adv>	0.7306466102600098
+m o r e - s o:m o r e <adv>	0.7264397740364075
+g r e a t e r:m o r e <adv>	0.725874125957489
+w e l l:a s <adv>	0.6581762433052063
+i n s o f a r:a s <adv>	0.6211488246917725
+t h a t - - a s:a s <adv>	0.6176257133483887
+n o t - - a s:a s <adv>	0.6172902584075928
+h e r e - - a s:a s <adv>	0.6032447814941406
+a n d - - a s:a s <adv>	0.6031432151794434
+r e g a r d e d:a s <adv>	0.601410448551178
+i n a s m u c h:a s <adv>	0.5924268364906311
+b u t:a s <adv>	0.5912508964538574
+e v e n:a s <adv>	0.5905713438987732
+s u n b a t h e:b a t h e <vblex>	0.7003338932991028
+b a t h e d:b a t h e <vblex>	0.6605681777000427
+b a t h e s:b a t h e <vblex>	0.6557124853134155
+b a t h i n g:b a t h e <vblex>	0.6545940637588501
+w a s h:b a t h e <vblex>	0.6377472281455994
+b a t h:b a t h e <vblex>	0.624847948551178
+u r i n a t e:b a t h e <vblex>	0.6172382831573486
+b a t h e r:b a t h e <vblex>	0.6102676391601562
+c l o t h e:b a t h e <vblex>	0.6061769723892212
+d e f e c a t e:b a t h e <vblex>	0.6051598787307739
+s i s t e r:b r o t h e r <n>	0.8655909299850464
+b r o t h e r - i n - l a w:b r o t h e r <n>	0.8634001016616821
+s t e p - b r o t h e r:b r o t h e r <n>	0.842247486114502
+u n c l e:b r o t h e r <n>	0.8295996785163879
+n e p h e w:b r o t h e r <n>	0.8216179013252258
+h a l f - b r o t h e r:b r o t h e r <n>	0.8207318782806396
+c o u s i n:b r o t h e r <n>	0.8186597228050232
+s t e p b r o t h e r:b r o t h e r <n>	0.8143736720085144
+f a t h e r:b r o t h e r <n>	0.8104280233383179
+b r o t h e r s:b r o t h e r <n>	0.8064578771591187
+b o t h e r i n g:b o t h e r <vblex>	0.8532625436782837
+b o t h e r e d:b o t h e r <vblex>	0.7649815082550049
+b o t h e r s:b o t h e r <vblex>	0.7249629497528076
+t r o u b l e:b o t h e r <vblex>	0.6547552347183228
+f o r g e t:b o t h e r <vblex>	0.6455906629562378
+b o t h e r a t i o n:b o t h e r <vblex>	0.6270526051521301
+b e g r u d g e:b o t h e r <vblex>	0.6250415444374084
+c o m p l a i n:b o t h e r <vblex>	0.6245927810668945
+h a s s l e:b o t h e r <vblex>	0.6217744946479797
+a n y o n e:b o t h e r <vblex>	0.6202066540718079
+p l a c e s:p l a c e <vblex>	0.7514926195144653
+p l a c e - - a n d:p l a c e <vblex>	0.7195972800254822
+p l a c m e n t:p l a c e <vblex>	0.7013882398605347
+p l a c e -:p l a c e <vblex>	0.6948633790016174
+p u t:p l a c e <vblex>	0.6825529336929321
+p l a c e i n g:p l a c e <vblex>	0.6808218359947205
+s p o t:p l a c e <vblex>	0.6792473196983337
+p l a c e d:p l a c e <vblex>	0.6773188710212708
+r e - p l a c e:p l a c e <vblex>	0.6758348941802979
+p l a v e:p l a c e <vblex>	0.668832540512085
+w o m a n:m a n <n>	0.8119809031486511
+m a n - -:m a n <n>	0.7323857545852661
+m a n - - a n d:m a n <n>	0.7230691909790039
+p e r s o n:m a n <n>	0.7203924059867859
+m a d - m a n:m a n <n>	0.7037578821182251
+g u y:m a n <n>	0.6992256045341492
+g o d - m a n:m a n <n>	0.69350266456604
+b o y - m a n:m a n <n>	0.6925111413002014
+m a n - - t h e:m a n <n>	0.6904608607292175
+m a n - l o v e:m a n <n>	0.6874003410339355
+s e v e r a l:m a n y <adv>	0.8439679741859436
+n u m e r o u s:m a n y <adv>	0.8338830471038818
+f e w:m a n y <adv>	0.8093340396881104
+s o m e:m a n y <adv>	0.8091051578521729
+c o u n t l e s s:m a n y <adv>	0.795853853225708
+m o s t:m a n y <adv>	0.777126133441925
+t h e s e:m a n y <adv>	0.7704288363456726
+d o z e n s:m a n y <adv>	0.7606963515281677
+a l l:m a n y <adv>	0.7592363953590393
+h u n d r e d s:m a n y <adv>	0.7576682567596436
+d a u g h t e r:s o n <n>	0.8847971558570862
+f a t h e r:s o n <n>	0.8652016520500183
+g r a n d s o n:s o n <n>	0.8440217971801758
+s o n s:s o n <n>	0.8043433427810669
+s t e p - s o n:s o n <n>	0.7968862652778625
+n e p h e w:s o n <n>	0.7952917814254761
+b r o t h e r:s o n <n>	0.7854734063148499
+d a u g h t e r - i n - l a w:s o n <n>	0.7848976850509644
+w i f e:s o n <n>	0.7847093343734741
+m o t h e r:s o n <n>	0.7833120822906494
+g i r l:b o y <n>	0.8773632645606995
+k i d:b o y <n>	0.7885640859603882
+b o y t o y:b o y <n>	0.7588338851928711
+b o y - m a n:b o y <n>	0.7505614161491394
+b o y - c h i l d:b o y <n>	0.7486089468002319
+b o y -:b o y <n>	0.7466551065444946
+b o y s:b o y <n>	0.7388808131217957
+l a d:b o y <n>	0.7353158593177795
+y o u n g s t e r:b o y <n>	0.730456531047821
+t o y - b o y:b o y <n>	0.7297818064689636
+p h y s i c i a n:d o c t o r <n>	0.832072377204895
+d o c t o r -:d o c t o r <n>	0.79905104637146
+n o n - d o c t o r:d o c t o r <n>	0.7794221639633179
+d o c t o r s:d o c t o r <n>	0.7743479013442993
+s u r g e o n:d o c t o r <n>	0.774031937122345
+d o c t e r:d o c t o r <n>	0.765329897403717
+n u r s e - p r a c t i t i o n e r:d o c t o r <n>	0.7299047112464905
+p r o c t o l o g i s t:d o c t o r <n>	0.7288891077041626
+c a r d i o l o g i s t:d o c t o r <n>	0.7285343408584595
+e x - d o c t o r:d o c t o r <n>	0.7248287796974182
+n e c e s s a r i l y:n o t <adv>	0.7820737361907959
+n e v e r:n o t <adv>	0.7800140380859375
+h a r d l y:n o t <adv>	0.7730419039726257
+b n o t:n o t <adv>	0.7694700360298157
+n n o t:n o t <adv>	0.7693290710449219
+r e a l l y:n o t <adv>	0.7669838070869446
+a c t u a l l y:n o t <adv>	0.7649549841880798
+i n d e e d:n o t <adv>	0.7608864903450012
+m n o t:n o t <adv>	0.758445143699646
+w o u l d n o t:n o t <adv>	0.7566171288490295
+d i e s:d i e <vblex>	0.7306953072547913
+d i e -:d i e <vblex>	0.7184093594551086
+d i e .:d i e <vblex>	0.7130376696586609
+d y i n g:d i e <vblex>	0.6890994310379028
+d i e i n g:d i e <vblex>	0.6713840961456299
+d i e p:d i e <vblex>	0.6551170349121094
+d i e d:d i e <vblex>	0.6511550545692444
+d i e o f f:d i e <vblex>	0.649702250957489
+p e r i s h:d i e <vblex>	0.6456610560417175
+d i e a:d i e <vblex>	0.6429100632667542
+m a n y:m o s t <adv>	0.7771257162094116
+t h e m o s t:m o s t <adv>	0.7608012557029724
+a l l:m o s t <adv>	0.7592038512229919
+m o s t y:m o s t <adv>	0.7416872978210449
+s i n g l e - m o s t:m o s t <adv>	0.7266542911529541
+s o m e:m o s t <adv>	0.7229495048522949
+m o r e:m o s t <adv>	0.7217172384262085
+n e x t - m o s t:m o s t <adv>	0.7211331129074097
+- m o s t:m o s t <adv>	0.7196395397186279
+p a r t i c u l a r l y:m o s t <adv>	0.7102872729301453
+u s e d:u s e <vblex>	0.7492754459381104
+u s e s:u s e <vblex>	0.7373163104057312
+u t i l i z e:u s e <vblex>	0.731927752494812
+u s i n g:u s e <vblex>	0.7301562428474426
+a p p p l y:u s e <vblex>	0.6969334483146667
+t o u s e:u s e <vblex>	0.6872709393501282
+u s e - - a n d:u s e <vblex>	0.6856502890586853
+u s e a g e:u s e <vblex>	0.6853877902030945
+m i s s - u s e:u s e <vblex>	0.6834859251976013
+e m p l o y:u s e <vblex>	0.6774393916130066
+s t i r r e d:s t i r <vblex>	0.7469261884689331
+s t i r s:s t i r <vblex>	0.7367691993713379
+s t i r r:s t i r <vblex>	0.7337673306465149
+s t i r r i n g:s t i r <vblex>	0.727800726890564
+a s t i r:s t i r <vblex>	0.7204654812812805
+p r o v o k e:s t i r <vblex>	0.6690332889556885
+b e s t i r:s t i r <vblex>	0.6679067611694336
+s t i r i n g:s t i r <vblex>	0.6588990092277527
+s t i r f r y:s t i r <vblex>	0.6440957188606262
+a g i t a t e:s t i r <vblex>	0.6408947110176086
+c l a m s:c l a m <n>	0.7695081830024719
+q u a h o g:c l a m <n>	0.6580175757408142
+m u s s e l:c l a m <n>	0.648233950138092
+s o f t - s h e l l:c l a m <n>	0.645459771156311
+c r a b:c l a m <n>	0.6377912759780884
+o y s t e r:c l a m <n>	0.6371666193008423
+c l a m - s h e l l:c l a m <n>	0.6346229910850525
+c l a m m i n g:c l a m <n>	0.6233232021331787
+c o c k l e:c l a m <n>	0.6072818636894226
+c h o w d e r:c l a m <n>	0.601044237613678
+a l w a y:a l w a y s <adv>	0.8342610001564026
+n e v e r:a l w a y s <adv>	0.8115561604499817
+i n v a r i a b l y:a l w a y s <adv>	0.79017573595047
+a l w a s y:a l w a y s <adv>	0.7825279831886292
+o f t e n:a l w a y s <adv>	0.7657557725906372
+u s u a l l y:a l w a y s <adv>	0.7651426792144775
+a l w a y s -:a l w a y s <adv>	0.763433039188385
+s e l d o m:a l w a y s <adv>	0.7619569897651672
+a l w y a s:a l w a y s <adv>	0.759315013885498
+a l s o:a l w a y s <adv>	0.7592734694480896
+c r i e s:c r y <vblex>	0.784679114818573
+c r y i n g:c r y <vblex>	0.7610477805137634
+w a i l:c r y <vblex>	0.7573627829551697
+s h o u t:c r y <vblex>	0.7514503002166748
+s c r e a m:c r y <vblex>	0.7237909436225891
+w a r - c r y:c r y <vblex>	0.7040112018585205
+l a u g h:c r y <vblex>	0.7034186124801636
+h o w l:c r y <vblex>	0.701008141040802
+s h r i e k:c r y <vblex>	0.7006905674934387
+m o a n:c r y <vblex>	0.6952124834060669
+n e a r l y:a l m o s t <adv>	0.8421138525009155
+v i r t u a l l y:a l m o s t <adv>	0.7794187068939209
+a m o s t:a l m o s t <adv>	0.7471864223480225
+p r a c t i c a l l y:a l m o s t <adv>	0.7441285848617554
+a l l m o s t:a l m o s t <adv>	0.7262497544288635
+- a l m o s t:a l m o s t <adv>	0.7228574156761169
+j u s t:a l m o s t <adv>	0.7193947434425354
+p r e t t y - m u c h:a l m o s t <adv>	0.7135408520698547
+o n l y:a l m o s t <adv>	0.7111372947692871
+q u i t e:a l m o s t <adv>	0.708954393863678
+y e s t e r d a y:t o d a y <adv>	0.7671589851379395
+t o m o r r o w:t o d a y <adv>	0.7637189626693726
+n o w:t o d a y <adv>	0.7422305941581726
+t o d a y - - a n d:t o d a y <adv>	0.7302311658859253
+n o w a d a y s:t o d a y <adv>	0.7045732140541077
+t o n i g h t:t o d a y <adv>	0.6792692542076111
+h e r e:t o d a y <adv>	0.6751490235328674
+t o d a y -:t o d a y <adv>	0.6685306429862976
+U S A t o d a y:t o d a y <adv>	0.666977047920227
+t o d a y s:t o d a y <adv>	0.6549047231674194
+h e r e - a n d:h e r e <adv>	0.7458141446113586
+e l s e w h e r e:h e r e <adv>	0.7302457690238953
+h e r e - i n:h e r e <adv>	0.7213157415390015
+h e r e -:h e r e <adv>	0.7145903706550598
+h e r e - - a n d:h e r e <adv>	0.6934785842895508
+t h e r e:h e r e <adv>	0.6862993240356445
+e l s w h e r e:h e r e <adv>	0.6773355603218079
+t o d a y:h e r e <adv>	0.6751490235328674
+s o m e w h e r e:h e r e <adv>	0.6724254488945007
+h e r e - - n o t:h e r e <adv>	0.6677965521812439
+w e l l:a s <pr>	0.6581762433052063
+i n s o f a r:a s <pr>	0.6211488246917725
+t h a t - - a s:a s <pr>	0.6176257133483887
+n o t - - a s:a s <pr>	0.6172902584075928
+h e r e - - a s:a s <pr>	0.6032447814941406
+a n d - - a s:a s <pr>	0.6031432151794434
+r e g a r d e d:a s <pr>	0.601410448551178
+i n a s m u c h:a s <pr>	0.5924268364906311
+b u t:a s <pr>	0.5912508964538574
+e v e n:a s <pr>	0.5905713438987732
+s n a k e s:s n a k e <n>	0.8238538503646851
+r a t t l e s n a k e:s n a k e <n>	0.8024715185165405
+k i n g s n a k e:s n a k e <n>	0.7667073607444763
+r a t s n a k e:s n a k e <n>	0.7537611722946167
+w h i p s n a k e:s n a k e <n>	0.741621732711792
+c o b r a:s n a k e <n>	0.7307860255241394
+s e r p e n t:s n a k e <n>	0.7260024547576904
+w a t e r s n a k e:s n a k e <n>	0.7250879406929016
+s n a k e y:s n a k e <n>	0.7184414863586426
+s n a k e l i k e:s n a k e <n>	0.7138002514839172
+d w e l l s:d w e l l <vblex>	0.7562119364738464
+d w e l t:d w e l l <vblex>	0.7200462818145752
+d w e l l e d:d w e l l <vblex>	0.7038670778274536
+i n h a b i t:d w e l l <vblex>	0.6392843127250671
+d w e l l i n g:d w e l l <vblex>	0.6379982829093933
+r e s i d e:d w e l l <vblex>	0.6361177563667297
+d w e l l i n g - p l a c e:d w e l l <vblex>	0.6256418824195862
+w a n d e r:d w e l l <vblex>	0.6136223077774048
+r u m i n a t e:d w e l l <vblex>	0.5997245907783508
+d w e l l e t h:d w e l l <vblex>	0.5837885737419128
+c o u n t s:c o u n t <vblex>	0.829211950302124
+c o u n t i n g:c o u n t <vblex>	0.7612789273262024
+c o u n t e d:c o u n t <vblex>	0.7240588665008545
+d o u b l e - c o u n t:c o u n t <vblex>	0.7227693200111389
+n o n - c o u n t:c o u n t <vblex>	0.7179621458053589
+c o u n t -:c o u n t <vblex>	0.7137871980667114
+h a n d - c o u n t:c o u n t <vblex>	0.7134155035018921
+c o u n t i n:c o u n t <vblex>	0.6947427988052368
+b o d y c o u n t:c o u n t <vblex>	0.690793514251709
+m i s c o u n t:c o u n t <vblex>	0.6877455711364746
+f o r g e t:r e m e m b e r <vblex>	0.8116477131843567
+r e m e m b e r i n g:r e m e m b e r <vblex>	0.7944842576980591
+r e m e m e b e r:r e m e m b e r <vblex>	0.7786852121353149
+r e m e b e r:r e m e m b e r <vblex>	0.7741966843605042
+r e m e m b e r d:r e m e m b e r <vblex>	0.7531411051750183
+r e c o l l e c t:r e m e m b e r <vblex>	0.7474595904350281
+r e c a l l:r e m e m b e r <vblex>	0.7465036511421204
+r e m e m e m b e r:r e m e m b e r <vblex>	0.7393508553504944
+r e m e m b e r e r:r e m e m b e r <vblex>	0.736120343208313
+r e m e m b e r e d:r e m e m b e r <vblex>	0.7326350808143616
+c h i c k e n s:c h i c k e n <n>	0.8074107766151428
+p o u l t r y:c h i c k e n <n>	0.7277253866195679
+e g g:c h i c k e n <n>	0.7206342816352844
+f r i e d - c h i c k e n:c h i c k e n <n>	0.713294267654419
+t u r k e y:c h i c k e n <n>	0.7072280645370483
+c h i c k:c h i c k e n <n>	0.7056176066398621
+C h i c k e n:c h i c k e n <n>	0.7044382691383362
+c h i c k i e:c h i c k e n <n>	0.6914847493171692
+c h i c k e n - b a s e d:c h i c k e n <n>	0.6875292658805847
+p i g:c h i c k e n <n>	0.682824969291687
+a n k l e:k n e e <n>	0.8057971596717834
+e l b o w:k n e e <n>	0.7759487628936768
+k n e e s:k n e e <n>	0.7516897916793823
+k n e e c a p:k n e e <n>	0.7214102745056152
+t h i g h:k n e e <n>	0.7110312581062317
+k n e e -:k n e e <n>	0.6905909180641174
+g r o i n:k n e e <n>	0.6795806884765625
+b e n d e d:k n e e <n>	0.6676689982414246
+k n e e - c a p:k n e e <n>	0.663388729095459
+s h o u l d e r:k n e e <n>	0.6611185073852539
+o y s t e r s:o y s t e r <n>	0.8404508233070374
+o y s t e r i n g:o y s t e r <n>	0.7748376131057739
+o y s t e r m a n:o y s t e r <n>	0.7499296069145203
+o y s t e r m e n:o y s t e r <n>	0.7378659844398499
+o y s t e r - s h e l l:o y s t e r <n>	0.7244709134101868
+m u s s e l:o y s t e r <n>	0.6997603178024292
+s h e l l f i s h:o y s t e r <n>	0.6757342219352722
+c r a b:o y s t e r <n>	0.6665585041046143
+c r a b m e a t:o y s t e r <n>	0.6625644564628601
+l o b s t e r:o y s t e r <n>	0.6481799483299255
+d e f e c a t e s:d e f e c a t e <vblex>	0.8254014253616333
+d e f e c a t e d:d e f e c a t e <vblex>	0.8059505224227905
+d e f e c a t i n g:d e f e c a t e <vblex>	0.8056666851043701
+u r i n a t e:d e f e c a t e <vblex>	0.7856544852256775
+d e f e c a t i o n:d e f e c a t e <vblex>	0.76740962266922
+u r i n a t e s:d e f e c a t e <vblex>	0.6879609227180481
+d e f e c a t o r y:d e f e c a t e <vblex>	0.6856712102890015
+e x c r e t e:d e f e c a t e <vblex>	0.6817947030067444
+d e f e c a t i o n s:d e f e c a t e <vblex>	0.6816465854644775
+m a s t u r b a t e:d e f e c a t e <vblex>	0.6722486019134521
+t h a t y:t h a t <prn>	0.7760406732559204
+w h i c h:t h a t <prn>	0.7640235424041748
+t h a t - - i f:t h a t <prn>	0.7454593181610107
+t h a t - - e v e n:t h a t <prn>	0.7435450553894043
+t h a t - - t h a t:t h a t <prn>	0.7399225234985352
+t h a t y o u:t h a t <prn>	0.737671434879303
+t h a t t:t h a t <prn>	0.7310407757759094
+t h a t - - f o r:t h a t <prn>	0.7280735373497009
+t h a t - - b u t:t h a t <prn>	0.7278882265090942
+a l l - - t h a t:t h a t <prn>	0.7247911691665649
+i n s i s t i n g:i n s i s t <vblex>	0.8130367994308472
+i n s i s t e d:i n s i s t <vblex>	0.7557496428489685
+i n s i s t s:i n s i s t <vblex>	0.7548255324363708
+i n s i s t a n t:i n s i s t <vblex>	0.67815101146698
+a r g u e:i n s i s t <vblex>	0.6764703989028931
+a g r e e:i n s i s t <vblex>	0.6706013679504395
+c o n t e n d:i n s i s t <vblex>	0.6700646877288818
+c o n c e d e:i n s i s t <vblex>	0.6599117517471313
+i n s i s t e r:i n s i s t <vblex>	0.6555390357971191
+i n s i s t e n c e:i n s i s t <vblex>	0.6544280648231506
+v e r y - w e l l:w e l l <adv>	0.7226729393005371
+n i c e l y:w e l l <adv>	0.7193292379379272
+s o:w e l l <adv>	0.7183767557144165
+p e r f e c t l y:w e l l <adv>	0.7165747284889221
+r e a s o n a b l y:w e l l <adv>	0.7163180708885193
+d e c e n t l y:w e l l <adv>	0.7117588520050049
+w e l l - - a n d:w e l l <adv>	0.7089849710464478
+w e l l l:w e l l <adv>	0.7077318429946899
+p o o r l y:w e l l <adv>	0.7024109959602356
+w e l l - e n o u g h:w e l l <adv>	0.6995649337768555
+e x t r e m e l y:v e r y <adv>	0.8653967976570129
+p r e t t y:v e r y <adv>	0.8239924907684326
+q u i t e:v e r y <adv>	0.8071152567863464
+v e r y - v e r y:v e r y <adv>	0.7835520505905151
+i n c r e d i b l y:v e r y <adv>	0.7818509936332703
+f a i r l y:v e r y <adv>	0.7716659307479858
+r e l a t i v e l y:v e r y <adv>	0.7620882987976074
+r e m a r k a b l y:v e r y <adv>	0.7530421018600464
+- v e r y:v e r y <adv>	0.7529383301734924
+e x t r a o r d i n a r i l y:v e r y <adv>	0.7512243986129761
+t o m o r r o w:t o n i g h t <adv>	0.7816478610038757
+t o n i g h t -:t o n i g h t <adv>	0.7681933641433716
+y e s t e r d a y:t o n i g h t <adv>	0.761434018611908
+t o n i g h t s:t o n i g h t <adv>	0.7524808645248413
+t o n i g h t .:t o n i g h t <adv>	0.7055333852767944
+t o m m o r r o w:t o n i g h t <adv>	0.6919583678245544
+t o d a y:t o n i g h t <adv>	0.6792688965797424
+t o n i t e:t o n i g h t <adv>	0.6714823842048645
+t o m o r o w:t o n i g h t <adv>	0.6667227149009705
+n i g h t:t o n i g h t <adv>	0.644690990447998
+k n o w - - a n d:k n o w <vblex>	0.8144297003746033
+k k n o w:k n o w <vblex>	0.8054832816123962
+k n o w - - b u t:k n o w <vblex>	0.7875289916992188
+y o u k n o w:k n o w <vblex>	0.7787706255912781
+u n d e r s t a n d:k n o w <vblex>	0.7640301585197449
+k n o w . I:k n o w <vblex>	0.7585921287536621
+k n o w - -:k n o w <vblex>	0.7578612565994263
+' t k n o w:k n o w <vblex>	0.7531132698059082
+t e l l:k n o w <vblex>	0.749985933303833
+k n o w -:k n o w <vblex>	0.7481704950332642
+g i v i n g:g i v e <vblex>	0.8206007480621338
+g i v e s:g i v e <vblex>	0.80328768491745
+g a v e:g i v e <vblex>	0.7756571769714355
+p r o v i d e:g i v e <vblex>	0.7688036561012268
+g i v e n:g i v e <vblex>	0.7438795566558838
+t a k e:g i v e <vblex>	0.7292041182518005
+g e t:g i v e <vblex>	0.7234808206558228
+o f f e r:g i v e <vblex>	0.7131421566009521
+g i v e d:g i v e <vblex>	0.7068947553634644
+g i v e -:g i v e <vblex>	0.7053437829017639
+h a d:h a v e <vblex>	0.8247243165969849
+h a s:h a v e <vblex>	0.7811741828918457
+h a v e d:h a v e <vblex>	0.7690203189849854
+h a v i n g:h a v e <vblex>	0.7682095766067505
+h a v e r:h a v e <vblex>	0.7655380368232727
+h a v e e:h a v e <vblex>	0.7611005902290344
+h h a v e:h a v e <vblex>	0.7588098049163818
+h a v c e:h a v e <vblex>	0.7571215033531189
+j h a v e:h a v e <vblex>	0.7493296265602112
+h a v e w:h a v e <vblex>	0.7446528673171997
+j u s t:e v e n <adv>	0.7589766383171082
+c e r t a i n l y:e v e n <adv>	0.7531329393386841
+t h o u g h:e v e n <adv>	0.7507194876670837
+o n l y:e v e n <adv>	0.7482614517211914
+h a r d l y:e v e n <adv>	0.7328087091445923
+t i m e - - e v e n:e v e n <adv>	0.7281398177146912
+i n d e e d:e v e n <adv>	0.7269464731216431
+o n l l y:e v e n <adv>	0.7233083844184875
+t h a t - - e v e n:e v e n <adv>	0.7228222489356995
+s u r e l y:e v e n <adv>	0.7219865322113037
+l e a v i n g:l e a v e <vblex>	0.7603908777236938
+l e a v e s:l e a v e <vblex>	0.7321265935897827
+t a k e:l e a v e <vblex>	0.7068530321121216
+l e a v e -:l e a v e <vblex>	0.6993274092674255
+w a y l e a v e:l e a v e <vblex>	0.6804372072219849
+o n - l e a v e:l e a v e <vblex>	0.6795132756233215
+l e a v e r:l e a v e <vblex>	0.6770765781402588
+l e f t:l e a v e <vblex>	0.6667114496231079
+g o:l e a v e <vblex>	0.6613214612007141
+l e a v e i n g:l e a v e <vblex>	0.6588945984840393
+w o l v e s:w o l f <n>	0.808470606803894
+w o l f s:w o l f <n>	0.7956687211990356
+w o l f - d o g:w o l f <n>	0.7670631408691406
+w o l f d o g:w o l f <n>	0.7430676817893982
+w o l f l i k e:w o l f <n>	0.7259283661842346
+c o y w o l f:w o l f <n>	0.7125067710876465
+w o l f i s h:w o l f <n>	0.7119055986404419
+w o l v e r i n e:w o l f <n>	0.7117313742637634
+w o l f - d o g s:w o l f <n>	0.7110099792480469
+s h e - w o l f:w o l f <n>	0.6973608136177063
+b e a r s:b e a r <n>	0.8843260407447815
+b e a r i n g:b e a r <n>	0.8149535059928894
+b o r e:b e a r <n>	0.7524452209472656
+b e a r e s t:b e a r <n>	0.7432253956794739
+b e a r e d:b e a r <n>	0.7308980822563171
+b e a r -:b e a r <n>	0.7282841205596924
+b e a r e:b e a r <n>	0.7081953287124634
+b e a r l i k e:b e a r <n>	0.678817868232727
+b e a r - s h a p e d:b e a r <n>	0.6769659519195557
+b e a r l y:b e a r <n>	0.67667555809021
+b o b c a t s:b o b c a t <n>	0.8142597675323486
+B o b c a t:b o b c a t <n>	0.6921163201332092
+c o y o t e:b o b c a t <n>	0.6512237787246704
+r a c c o o n:b o b c a t <n>	0.6463272571563721
+c o u g a r:b o b c a t <n>	0.641631007194519
+p u m a:b o b c a t <n>	0.6212040185928345
+w h i t e t a i l:b o b c a t <n>	0.6083652377128601
+m o o s e:b o b c a t <n>	0.6073957681655884
+l y n x:b o b c a t <n>	0.6031793355941772
+d e e r:b o b c a t <n>	0.6010043621063232
+r e m e m b e r:f o r g e t <vblex>	0.8116477727890015
+f o r g e t t i n g:f o r g e t <vblex>	0.7755081653594971
+f o r g o t:f o r g e t <vblex>	0.761815071105957
+f o r g e t -:f o r g e t <vblex>	0.7430497407913208
+f o r g e t s:f o r g e t <vblex>	0.739474356174469
+f o r g e t i n g:f o r g e t <vblex>	0.7304515838623047
+r e m i n d:f o r g e t <vblex>	0.7204810380935669
+f o r g e t .:f o r g e t <vblex>	0.6974525451660156
+k n o w:f o r g e t <vblex>	0.6959059238433838
+i g n o r e:f o r g e t <vblex>	0.6956559419631958
+y e s s:y e s <ij>	0.7528679966926575
+Y e s:y e s <ij>	0.7510504722595215
+y e s -:y e s <ij>	0.7423345446586609
+y e a h:y e s <ij>	0.7340365648269653
+y e s - -:y e s <ij>	0.7147817611694336
+- - y e s:y e s <ij>	0.706243097782135
+y e s s i r:y e s <ij>	0.7054237127304077
+y e s s s s:y e s <ij>	0.6987283229827881
+y e s s s:y e s <ij>	0.6901372671127319
+n o p e:y e s <ij>	0.6893909573554993
+t h e:t h i s <prn>	0.7341270446777344
+t h i n g:t h i s <prn>	0.7328931093215942
+i n t h i s:t h i s <prn>	0.6985477209091187
+t h a t:t h i s <prn>	0.6952487826347351
+t h i s - - t h i s:t h i s <prn>	0.692298173904419
+s u c h:t h i s <prn>	0.6898553371429443
+i t:t h i s <prn>	0.686693549156189
+h e r e - - t h i s:t h i s <prn>	0.682702898979187
+t h i s - - i n:t h i s <prn>	0.6805704832077026
+p a r t i c u l a r:t h i s <prn>	0.6803798079490662
+t h i n k:b e l i e v e <vblex>	0.8056005835533142
+b e l e i v e:b e l i e v e <vblex>	0.8054914474487305
+b e l e i e v e:b e l i e v e <vblex>	0.7535878419876099
+b e l i e v i n g:b e l i e v e <vblex>	0.749877393245697
+d i s b e l i e v e:b e l i e v e <vblex>	0.7479110360145569
+b e l i e v e s:b e l i e v e <vblex>	0.7458277940750122
+b e l i e v e d:b e l i e v e <vblex>	0.7400776743888855
+b e i e v e:b e l i e v e <vblex>	0.7315815091133118
+r e a l i z e:b e l i e v e <vblex>	0.7280351519584656
+b e l i v e:b e l i e v e <vblex>	0.7219147086143494
+t i m e - - f o r:f o r <pr>	0.7398209571838379
+f f o r:f o r <pr>	0.7271115183830261
+t h a t - - f o r:f o r <pr>	0.708361804485321
+t h e m - - f o r:f o r <pr>	0.6988955736160278
+t f o r:f o r <pr>	0.6901784539222717
+p r o v i d i n g:f o r <pr>	0.6817157864570618
+' f o r:f o r <pr>	0.6723697781562805
+o f o r:f o r <pr>	0.6684573888778687
+s u p p o r t i n g:f o r <pr>	0.6682172417640686
+a n d - - f o r:f o r <pr>	0.6620817184448242
+s e v e r a l:m a n y <det>	0.8439679741859436
+n u m e r o u s:m a n y <det>	0.8338830471038818
+f e w:m a n y <det>	0.8093340396881104
+s o m e:m a n y <det>	0.8091051578521729
+c o u n t l e s s:m a n y <det>	0.795853853225708
+m o s t:m a n y <det>	0.777126133441925
+t h e s e:m a n y <det>	0.7704288363456726
+d o z e n s:m a n y <det>	0.7606963515281677
+a l l:m a n y <det>	0.7592363953590393
+h u n d r e d s:m a n y <det>	0.7576682567596436
+h a w k s:h a w k <n>	0.7647274732589722
+h a w k l i k e:h a w k <n>	0.661679744720459
+r e d - t a i l e d:h a w k <n>	0.6418906450271606
+h a w k i n g:h a w k <n>	0.6393972635269165
+c h i c k e n - h a w k:h a w k <n>	0.6356934905052185
+d o v e:h a w k <n>	0.6334973573684692
+d o v e s:h a w k <n>	0.6280450820922852
+h a w k - e a g l e:h a w k <n>	0.6271982789039612
+s p a r r o w h a w k:h a w k <n>	0.624696671962738
+b i r d:h a w k <n>	0.6202932000160217
+b o y:g i r l <n>	0.8773636221885681
+g i r l -:g i r l <n>	0.8139976859092712
+g i r l - g i r l:g i r l <n>	0.7853874564170837
+g i r l y - g i r l:g i r l <n>	0.7792029976844788
+g i r l - b o y:g i r l <n>	0.7781163454055786
+s c h o o l g i r l:g i r l <n>	0.7721586227416992
+w o m a n:g i r l <n>	0.757724404335022
+g i r l .:g i r l <n>	0.7567050457000732
+g i r l s:g i r l <n>	0.7551302909851074
+s c h o o l - g i r l:g i r l <n>	0.7514083981513977
+s l i g h t l y:s o m e w h a t <adv>	0.8808385729789734
+c o n s i d e r a b l y:s o m e w h a t <adv>	0.7892851233482361
+q u i t e:s o m e w h a t <adv>	0.7882348895072937
+m a r k e d l y:s o m e w h a t <adv>	0.7864758968353271
+d e c i d e d l y:s o m e w h a t <adv>	0.7814933061599731
+r e m a r k a b l y:s o m e w h a t <adv>	0.7785325050354004
+m i l d l y:s o m e w h a t <adv>	0.775810182094574
+s l i g h l y:s o m e w h a t <adv>	0.7757521867752075
+n o t i c e a b l y:s o m e w h a t <adv>	0.7732399702072144
+s l i g h l t y:s o m e w h a t <adv>	0.7694170475006104
+t r a i n s:t r a i n <n>	0.8348976373672485
+b u s - t r a i n:t r a i n <n>	0.7398346662521362
+i n - t r a i n:t r a i n <n>	0.7304431200027466
+t r a i n l i n e:t r a i n <n>	0.7268730998039246
+t r a i n -:t r a i n <n>	0.7253626585006714
+c r o s s - t r a i n:t r a i n <n>	0.7221114039421082
+o n - t r a i n:t r a i n <n>	0.7125735878944397
+t r a i n e:t r a i n <n>	0.7125329971313477
+r e - t r a i n:t r a i n <n>	0.7045481204986572
+t r a i n - s e t:t r a i n <n>	0.7032411694526672
+s w e e p s:s w e e p <vblex>	0.8404442667961121
+s w e e p i n g:s w e e p <vblex>	0.8093359470367432
+c l e a n - s w e e p:s w e e p <vblex>	0.7390301823616028
+s w e p t:s w e e p <vblex>	0.7119227051734924
+s w e e p e d:s w e e p <vblex>	0.7087914943695068
+u p s w e e p:s w e e p <vblex>	0.6888189911842346
+s w e e p b a c k:s w e e p <vblex>	0.685678243637085
+c l e a n s w e e p:s w e e p <vblex>	0.6835129261016846
+r e v e r s e - s w e e p:s w e e p <vblex>	0.6569282412528992
+s l o g - s w e e p:s w e e p <vblex>	0.6398061513900757
+n e p h e w:c o u s i n <n>	0.8211065530776978
+c o u s i n s:c o u s i n <n>	0.8204472064971924
+b r o t h e r:c o u s i n <n>	0.8186585903167725
+s t e p - c o u s i n:c o u s i n <n>	0.8132837414741516
+c o u s i n - i n - l a w:c o u s i n <n>	0.8103770613670349
+u n c l e:c o u s i n <n>	0.8091130256652832
+h a l f - c o u s i n:c o u s i n <n>	0.8032854199409485
+n i e c e:c o u s i n <n>	0.8007885813713074
+b r o t h e r - i n - l a w:c o u s i n <n>	0.7986186742782593
+s i s t e r:c o u s i n <n>	0.7868279218673706
+a g r e e e d:a g r e e d <ij>	0.8084930777549744
+d i s a g r e e d:a g r e e d <ij>	0.8058745861053467
+a g r e e:a g r e e d <ij>	0.7862927317619324
+d e c i d e d:a g r e e d <ij>	0.7743831276893616
+a g r r e d:a g r e e d <ij>	0.7581062316894531
+a g r e e i n g:a g r e e d <ij>	0.7526370882987976
+a g r e e d e d:a g r e e d <ij>	0.7523390054702759
+a g r e m e n t:a g r e e d <ij>	0.7420356273651123
+i n s i s t e d:a g r e e d <ij>	0.7400795221328735
+c o n c l u d e d:a g r e e d <ij>	0.737227201461792
+t o u c h e s:t o u c h <vblex>	0.7638813257217407
+t o u c h i n g:t o u c h <vblex>	0.7568241357803345
+t o u c h s:t o u c h <vblex>	0.7318030595779419
+t o u c h e d:t o u c h <vblex>	0.7148915529251099
+n o n - t o u c h:t o u c h <vblex>	0.711625874042511
+t o u c h a b l e:t o u c h <vblex>	0.6964867115020752
+t o u c h e r:t o u c h <vblex>	0.6882799863815308
+i n - t o u c h:t o u c h <vblex>	0.6836357116699219
+t o u c h -:t o u c h <vblex>	0.6743672490119934
+i n t o u c h:t o u c h <vblex>	0.6742486953735352
+t o m m o r r o w:t o m o r r o w <adv>	0.8155181407928467
+t o n i g h t:t o m o r r o w <adv>	0.7816476225852966
+t o m o r r o w s:t o m o r r o w <adv>	0.7654028534889221
+t o m o r o w:t o m o r r o w <adv>	0.7637833952903748
+t o d a y:t o m o r r o w <adv>	0.7637193202972412
+t o m m o r o w:t o m o r r o w <adv>	0.7438892722129822
+y e s t e r d a y:t o m o r r o w <adv>	0.7398309111595154
+t o m o r r o w -:t o m o r r o w <adv>	0.7265048623085022
+t o m o r r o w .:t o m o r r o w <adv>	0.6931599378585815
+2 m o r r o w:t o m o r r o w <adv>	0.6816505193710327
+d a n c i n g:d a n c e <vblex>	0.8357917070388794
+d a n c e s:d a n c e <vblex>	0.8355279564857483
+d a n c e -:d a n c e <vblex>	0.7735687494277954
+n o n - d a n c e:d a n c e <vblex>	0.7665864825248718
+d a n c y:d a n c e <vblex>	0.7655707597732544
+b r e a k - d a n c e:d a n c e <vblex>	0.7574383020401001
+f o l k d a n c e:d a n c e <vblex>	0.7506510615348816
+d a n c e - m a k i n g:d a n c e <vblex>	0.7505941987037659
+f o l k - d a n c e:d a n c e <vblex>	0.7505531907081604
+c h o r e o g r a p h y:d a n c e <vblex>	0.7487566471099854
+l i k k l e:l i k e <adv>	0.7184320688247681
+l i k e e:l i k e <adv>	0.7086602449417114
+l i k e y:l i k e <adv>	0.6971442699432373
+l i k e i n g:l i k e <adv>	0.69162517786026
+l i k e - - a n d:l i k e <adv>	0.6909753084182739
+l l i k e:l i k e <adv>	0.6837096214294434
+s e e e m:l i k e <adv>	0.6818657517433167
+l i k e l e y:l i k e <adv>	0.6775462031364441
+l i k e s:l i k e <adv>	0.6720850467681885
+l o o o o v e:l i k e <adv>	0.6708044409751892
+d e p a r t s:d e p a r t <vblex>	0.7623895406723022
+d e p a r t i n g:d e p a r t <vblex>	0.7453344464302063
+d e p a r t e d:d e p a r t <vblex>	0.7089188694953918
+a r r i v e:d e p a r t <vblex>	0.6964629888534546
+c o m e:d e p a r t <vblex>	0.626794695854187
+d e p a r t u r e:d e p a r t <vblex>	0.6229318976402283
+l e a v e:d e p a r t <vblex>	0.6142275929450989
+d i s e m b a r k:d e p a r t <vblex>	0.6099298596382141
+b e g i n:d e p a r t <vblex>	0.6012932658195496
+g o:d e p a r t <vblex>	0.6011263132095337
+h o w e v e r:b u t <adv>	0.7781249284744263
+t h o u g h:b u t <adv>	0.7776785492897034
+a l t h o u g h:b u t <adv>	0.7377020120620728
+s o:b u t <adv>	0.731300413608551
+b e c a u s e:b u t <adv>	0.7274772524833679
+- b u t:b u t <adv>	0.7224690914154053
+n o t - - b u t:b u t <adv>	0.7116097807884216
+y e t:b u t <adv>	0.7073482871055603
+t o o - - b u t:b u t <adv>	0.7054731249809265
+a l l - - b u t:b u t <adv>	0.7053821086883545
+c a r r y - a l l:c a r r y o n <vblex>	0.754798948764801
+c a r r y - o n:c a r r y o n <vblex>	0.7425941228866577
+c a r r y s:c a r r y o n <vblex>	0.7352290153503418
+c a r r y a l l:c a r r y o n <vblex>	0.7273562550544739
+c a r r y - o n s:c a r r y o n <vblex>	0.7256860733032227
+c a r r y - i n:c a r r y o n <vblex>	0.7094318270683289
+c h e c k e d - b a g:c a r r y o n <vblex>	0.701583743095398
+c a r r y:c a r r y o n <vblex>	0.6957373023033142
+h a n d - c a r r y:c a r r y o n <vblex>	0.6743699908256531
+b a g a g e:c a r r y o n <vblex>	0.6709088683128357
+e s t e e m s:e s t e e m <vblex>	0.683005690574646
+s e l f e s t e e m:e s t e e m <vblex>	0.6626755595207214
+r e s p e c t:e s t e e m <vblex>	0.6466954946517944
+r e v e r e n c e:e s t e e m <vblex>	0.6461494565010071
+s e l f - r e s p e c t:e s t e e m <vblex>	0.6260712742805481
+r e p u t e:e s t e e m <vblex>	0.6220042109489441
+a d m i r a t i o n:e s t e e m <vblex>	0.6219249367713928
+e s t e e m e d:e s t e e m <vblex>	0.6168191432952881
+c o n f i d e n c e:e s t e e m <vblex>	0.6057928204536438
+a f f e c t i o n:e s t e e m <vblex>	0.5939134359359741
+a l o n e - - a n d:a l o n e <adv>	0.7087181210517883
+a l o n e -:a l o n e <adv>	0.6968637108802795
+a l o n e - -:a l o n e <adv>	0.652187705039978
+t o g e t h e r:a l o n e <adv>	0.6061871647834778
+a g a i n:a l o n e <adv>	0.6047311425209045
+e i t h e r:a l o n e <adv>	0.5975631475448608
+a l l o n e:a l o n e <adv>	0.592684268951416
+n o w:a l o n e <adv>	0.5920135974884033
+a l o n:a l o n e <adv>	0.5913868546485901
+p o w e r l e s s l y:a l o n e <adv>	0.5905146598815918
+p u t t i n g:p u t <vblex>	0.8328472375869751
+p u t s:p u t <vblex>	0.7958593368530273
+b r i n g:p u t <vblex>	0.7377720475196838
+p l a c e d:p u t <vblex>	0.7325024604797363
+o p u t:p u t <vblex>	0.7158175706863403
+b r o u g h t:p u t <vblex>	0.711868166923523
+p u t t t i n g:p u t <vblex>	0.7100712656974792
+p u t t i n:p u t <vblex>	0.707464337348938
+g e t:p u t <vblex>	0.6979137659072876
+r e - p u t:p u t <vblex>	0.6965028047561646
+s e a m s t r e s s e s:s e a m s t r e s s <n>	0.7969517707824707
+d r e s s m a k e r:s e a m s t r e s s <n>	0.715989887714386
+S e a m s t r e s s:s e a m s t r e s s <n>	0.6791704893112183
+e m b r o i d e r e r:s e a m s t r e s s <n>	0.654758632183075
+k n i t t e r:s e a m s t r e s s <n>	0.651523232460022
+d r e s s m a k e r s:s e a m s t r e s s <n>	0.6481664180755615
+m i l l i n e r:s e a m s t r e s s <n>	0.6366634964942932
+h o u s e w i f e:s e a m s t r e s s <n>	0.6363024711608887
+s h o e m a k e r:s e a m s t r e s s <n>	0.6355342864990234
+l a u n d r e s s:s e a m s t r e s s <n>	0.635517418384552
+p a s s e s:p a s s <vblex>	0.8259588479995728
+r e p a s s:p a s s <vblex>	0.8033702373504639
+p a s s i n g:p a s s <vblex>	0.7794655561447144
+p a s s e d:p a s s <vblex>	0.7763145565986633
+r e - p a s s:p a s s <vblex>	0.7608368396759033
+p a s s e s s:p a s s <vblex>	0.7419691681861877
+p a s s -:p a s s <vblex>	0.7348313331604004
+h a l f - p a s s:p a s s <vblex>	0.690475344657898
+p a s s - o u t:p a s s <vblex>	0.6875707507133484
+p a s s - o n:p a s s <vblex>	0.682478666305542
+n o n - c h i l d:c h i l d <n>	0.7806165218353271
+b o y - c h i l d:c h i l d <n>	0.7771490812301636
+i n f a n t:c h i l d <n>	0.7692996859550476
+m o t h e r:c h i l d <n>	0.7654840350151062
+c h i l d - -:c h i l d <n>	0.7639941573143005
+c h i l d r e n:c h i l d <n>	0.7630216479301453
+c h i l d e n:c h i l d <n>	0.7588275074958801
+p a r e n t:c h i l d <n>	0.7466439604759216
+c h i l d ʼ s:c h i l d <n>	0.743794858455658
+o n l y - c h i l d:c h i l d <n>	0.7417019009590149
+w i n n i n g:w i n <vblex>	0.7843384742736816
+w i n s:w i n <vblex>	0.7664207220077515
+v i c t o r y:w i n <vblex>	0.7541989088058472
+w i n n n i n g:w i n <vblex>	0.7305150032043457
+w o n:w i n <vblex>	0.7095877528190613
+l o s e:w i n <vblex>	0.7037520408630371
+s i x - w i n:w i n <vblex>	0.6899582147598267
+w i n n i n:w i n <vblex>	0.6895257830619812
+w i n n i g:w i n <vblex>	0.6875938773155212
+d e f e a t:w i n <vblex>	0.6868002414703369
+m o v e s:m o v e <vblex>	0.8209681510925293
+r e - m o v e:m o v e <vblex>	0.7959815859794617
+m o v i n g:m o v e <vblex>	0.7800680994987488
+m o v e d:m o v e <vblex>	0.7608328461647034
+r e l o c a t e:m o v e <vblex>	0.729025661945343
+c o u n t e r - m o v e:m o v e <vblex>	0.703048825263977
+p o s t - m o v e:m o v e <vblex>	0.6971574425697327
+c o u n t e r m o v e:m o v e <vblex>	0.6956242322921753
+c h a n g e:m o v e <vblex>	0.694276750087738
+r e - m o v e d:m o v e <vblex>	0.6920523047447205
+d e s p i s e:h a t e <vblex>	0.7826107144355774
+h a t r e d:h a t e <vblex>	0.7806751132011414
+h a t e -:h a t e <vblex>	0.7620171904563904
+h a t e r e d:h a t e <vblex>	0.7548759579658508
+h a t e r s:h a t e <vblex>	0.7500473856925964
+d i s l i k e:h a t e <vblex>	0.7463032603263855
+l o v e:h a t e <vblex>	0.7400197982788086
+h a t e r z:h a t e <vblex>	0.7363558411598206
+h a t e d:h a t e <vblex>	0.7333582639694214
+h a t i n g:h a t e <vblex>	0.7328484654426575
+d r e a m s:d r e a m <vblex>	0.8512081503868103
+d r e a m i n g:d r e a m <vblex>	0.7916011810302734
+d r e a m -:d r e a m <vblex>	0.7445576190948486
+d a y - d r e a m:d r e a m <vblex>	0.7272704243659973
+d r e a m - s t a t e:d r e a m <vblex>	0.7272525429725647
+d r e a m s c a p e:d r e a m <vblex>	0.7167033553123474
+d r e a m - l i f e:d r e a m <vblex>	0.7045564651489258
+d r e a m t:d r e a m <vblex>	0.7000396251678467
+d a y d r e a m:d r e a m <vblex>	0.699922502040863
+d r e a m e r:d r e a m <vblex>	0.6998189091682434
+b u d g e d:b u d g e <vblex>	0.7198825478553772
+b u d g i n g:b u d g e <vblex>	0.717042863368988
+b u d g e s:b u d g e <vblex>	0.7003546357154846
+r e l e n t:b u d g e <vblex>	0.6461942195892334
+w a v e r:b u d g e <vblex>	0.5646955966949463
+c a p i t u l a t e:b u d g e <vblex>	0.5586574077606201
+b u d g e t a r i l y:b u d g e <vblex>	0.5291310548782349
+b u d g e t:b u d g e <vblex>	0.5237401127815247
+h u d g e:b u d g e <vblex>	0.517508327960968
+c o n c e d e:b u d g e <vblex>	0.5117942094802856
+t r e e s:t r e e <n>	0.8141480684280396
+n o n - t r e e:t r e e <n>	0.8070619702339172
+s u b - t r e e:t r e e <n>	0.7720098495483398
+f i r - t r e e:t r e e <n>	0.758273720741272
+t r e e .:t r e e <n>	0.7565850019454956
+f r u i t - t r e e:t r e e <n>	0.7466022372245789
+f i g - t r e e:t r e e <n>	0.7419348955154419
+y e w - t r e e:t r e e <n>	0.741025447845459
+t r e e -:t r e e <n>	0.7394722104072571
+p i n e - t r e e:t r e e <n>	0.7233975529670715
+h o r s e s:h o r s e <n>	0.8335582613945007
+h o r s e -:h o r s e <n>	0.7804074287414551
+r a c e - h o r s e:h o r s e <n>	0.7675600051879883
+f o u r - h o r s e:h o r s e <n>	0.7581125497817993
+c a r t - h o r s e:h o r s e <n>	0.7563032507896423
+w a r - h o r s e:h o r s e <n>	0.7519787549972534
+s i x - h o r s e:h o r s e <n>	0.7507105469703674
+h o r s e y:h o r s e <n>	0.7502816915512085
+t h r e e - h o r s e:h o r s e <n>	0.7500234246253967
+e q u i n e:h o r s e <n>	0.746873140335083
+e a t e:e a t <vblex>	0.8007306456565857
+e a t -:e a t <vblex>	0.7924756407737732
+e a t i n:e a t <vblex>	0.7710840106010437
+e a t i n g:e a t <vblex>	0.7475292682647705
+a t e:e a t <vblex>	0.7394242286682129
+e a t .:e a t <vblex>	0.7381978034973145
+e a t s:e a t <vblex>	0.7242209315299988
+c o n s u m e:e a t <vblex>	0.7190531492233276
+e a t e n:e a t <vblex>	0.7079055309295654
+e a t a b l e:e a t <vblex>	0.7070157527923584
+s c a r e s:s c a r e <vblex>	0.8185001015663147
+s c a r i n g:s c a r e <vblex>	0.7192139625549316
+f r i g h t e n:s c a r e <vblex>	0.7121137380599976
+s c a r e d:s c a r e <vblex>	0.6537836790084839
+t e r r i f y:s c a r e <vblex>	0.6438019275665283
+s c a r e r:s c a r e <vblex>	0.6401749849319458
+f r i g h t:s c a r e <vblex>	0.6343510150909424
+f e a r:s c a r e <vblex>	0.6256892681121826
+s c a r e r s:s c a r e <vblex>	0.6216961145401001
+s c a r e - m o n g e r i n g:s c a r e <vblex>	0.62069171667099
+a s s i s t:h e l p <vblex>	0.7908470630645752
+t o h e l p:h e l p <vblex>	0.7727815508842468
+h e l p i n g:h e l p <vblex>	0.7718061208724976
+h e l p s:h e l p <vblex>	0.7650489211082458
+h e l p - -:h e l p <vblex>	0.7532248497009277
+h e l p - - a n d:h e l p <vblex>	0.7508060336112976
+h e l p -:h e l p <vblex>	0.7504475116729736
+h e l p . I:h e l p <vblex>	0.7481436729431152
+a i d:h e l p <vblex>	0.7272999882698059
+a s s i s t a n c e:h e l p <vblex>	0.7250697016716003
+r o l l s:r o l l <vblex>	0.7926687002182007
+r o l l i n g:r o l l <vblex>	0.7534703612327576
+r e - r o l l:r o l l <vblex>	0.7114592790603638
+r o l l .:r o l l <vblex>	0.7047107815742493
+r o l l e d:r o l l <vblex>	0.6915389895439148
+r o l l i n:r o l l <vblex>	0.6693092584609985
+r o l l i e:r o l l <vblex>	0.665802538394928
+r o l l i n g - p i n:r o l l <vblex>	0.6651338338851929
+r o l l e:r o l l <vblex>	0.6650075912475586
+u n r o l l:r o l l <vblex>	0.6617680788040161
+s k i n s:s k i n <n>	0.7920201420783997
+s k i n .:s k i n <n>	0.7366145253181458
+s k i n -:s k i n <n>	0.7180928587913513
+s k i n t o n e:s k i n <n>	0.705468475818634
+s k i n - c o l o r:s k i n <n>	0.6984543204307556
+s k i n - l i k e:s k i n <n>	0.6950652599334717
+s k i n - c o l o r e d:s k i n <n>	0.6831479072570801
+p i g m e n t a t i o n:s k i n <n>	0.6818335056304932
+m o l e s k i n:s k i n <n>	0.6809290051460266
+s k i n - c o l o u r:s k i n <n>	0.6791250109672546
+s h o r t:l o n g <adv>	0.792382538318634
+l e n g t h y:l o n g <adv>	0.744904637336731
+l o o o o n g:l o n g <adv>	0.741365909576416
+l o o o n g:l o n g <adv>	0.7400579452514648
+l o n g i s h:l o n g <adv>	0.737480640411377
+l o o o o o n g:l o n g <adv>	0.7288369536399841
+l o n g e r:l o n g <adv>	0.7218886017799377
+l o n g - i s h:l o n g <adv>	0.7120661735534668
+l o n g - -:l o n g <adv>	0.7025204300880432
+n o t - s o - l o n g:l o n g <adv>	0.6931059956550598
+p l a y s:p l a y <vblex>	0.820990800857544
+p l a y i n g:p l a y <vblex>	0.8035495281219482
+p l a y e d:p l a y <vblex>	0.7744697332382202
+r e - p l a y:p l a y <vblex>	0.7160694003105164
+p l a y n g:p l a y <vblex>	0.708341658115387
+p l a y e s:p l a y <vblex>	0.7060420513153076
+p l a y - a c t:p l a y <vblex>	0.7046273350715637
+s e t - p l a y:p l a y <vblex>	0.7040531039237976
+p l a y -:p l a y <vblex>	0.6931842565536499
+g a m p l a y:p l a y <vblex>	0.6928245425224304
+c i t y:t o w n <n>	0.8222967982292175
+v i l l a g e:t o w n <n>	0.8082801103591919
+t o w n -:t o w n <n>	0.7841714024543762
+t o w n s:t o w n <n>	0.7520920038223267
+t o w n - s i t e:t o w n <n>	0.74267578125
+P - t o w n:t o w n <n>	0.7316964864730835
+t o w n .:t o w n <n>	0.7187971472740173
+h a m l e t:t o w n <n>	0.7122762799263
+t o w n - l i k e:t o w n <n>	0.7070371508598328
+v i l l l a g e:t o w n <n>	0.7052427530288696
+d o l l s:d o l l <n>	0.8345775604248047
+b a b y d o l l:d o l l <n>	0.6926470994949341
+t o y:d o l l <n>	0.6891334652900696
+d o l l - l i k e:d o l l <n>	0.6878183484077454
+k e w p i e:d o l l <n>	0.6789183616638184
+d o l l h o u s e:d o l l <n>	0.6723363399505615
+b a b y - d o l l:d o l l <n>	0.6604822278022766
+d o l l - s i z e:d o l l <n>	0.658668041229248
+f i g u r i n e:d o l l <n>	0.6493958234786987
+b o b b l e - h e a d:d o l l <n>	0.6397298574447632
+o f t e n:s o m e t i m e s <adv>	0.8816217184066772
+o c c a s i o n a l l y:s o m e t i m e s <adv>	0.8411090970039368
+u s u a l l y:s o m e t i m e s <adv>	0.8242712616920471
+f r e q u e n t l y:s o m e t i m e s <adv>	0.7894948124885559
+s o m t i m e s:s o m e t i m e s <adv>	0.7485271692276001
+o c c a s s i o n a l l y:s o m e t i m e s <adv>	0.7439709305763245
+g e n e r a l l y:s o m e t i m e s <adv>	0.7425320744514465
+t y p i c a l l y:s o m e t i m e s <adv>	0.7410807609558105
+r a r e l y:s o m e t i m e s <adv>	0.7346889972686768
+i n v a r i a b l y:s o m e t i m e s <adv>	0.7338024377822876
+p o o p y:p o o p <vblex>	0.8057807683944702
+p o o:p o o p <vblex>	0.8043025732040405
+p o o p i n g:p o o p <vblex>	0.8029246926307678
+p o o p s:p o o p <vblex>	0.7696964144706726
+p o o p o o:p o o p <vblex>	0.7660259008407593
+p o o p i e:p o o p <vblex>	0.7029941082000732
+p o o p y h e a d:p o o p <vblex>	0.7022055983543396
+P o o p:p o o p <vblex>	0.7006787061691284
+p o o s:p o o p <vblex>	0.6857960820198059
+b o o g e r:p o o p <vblex>	0.6798461079597473
+t h e:t h i s <det>	0.7341270446777344
+t h i n g:t h i s <det>	0.7328931093215942
+i n t h i s:t h i s <det>	0.6985477209091187
+t h a t:t h i s <det>	0.6952487826347351
+t h i s - - t h i s:t h i s <det>	0.692298173904419
+s u c h:t h i s <det>	0.6898553371429443
+i t:t h i s <det>	0.686693549156189
+h e r e - - t h i s:t h i s <det>	0.682702898979187
+t h i s - - i n:t h i s <det>	0.6805704832077026
+p a r t i c u l a r:t h i s <det>	0.6803798079490662
+b o t h:a l l <det>	0.7950807809829712
+t h o s e:a l l <det>	0.7793153524398804
+t h e s e:a l l <det>	0.7728370428085327
+m a n y:a l l <det>	0.7592364549636841
+m o s t:a l l <det>	0.7592039704322815
+s o m e:a l l <det>	0.7378208041191101
+c e r t a i n:a l l <det>	0.7336757183074951
+t h e m - - a l l:a l l <det>	0.7277444005012512
+e v e r y t h i n g:a l l <det>	0.7240094542503357
+o t h e r:a l l <det>	0.7180958986282349
+p e r h a p s:m a y b e <adv>	0.8613118529319763
+M a y b e:m a y b e <adv>	0.7922205924987793
+m a y b e -:m a y b e <adv>	0.7754484415054321
+- m a y b e:m a y b e <adv>	0.7394461035728455
+- - m a y b e:m a y b e <adv>	0.7168355584144592
+s u r e l y:m a y b e <adv>	0.7131858468055725
+p r o b a b l y:m a y b e <adv>	0.7108074426651001
+h o p e f u l l y:m a y b e <adv>	0.7065663933753967
+P e r h a p s:m a y b e <adv>	0.7024850249290466
+m a y b e .:m a y b e <adv>	0.697516679763794
+e x i s t s:e x i s t <vblex>	0.8026082515716553
+e x i s t e d:e x i s t <vblex>	0.7683165073394775
+e x i s t -:e x i s t <vblex>	0.7213813662528992
+p r e - e x i s t:e x i s t <vblex>	0.699478030204773
+e x i s t s -:e x i s t <vblex>	0.6832268238067627
+e x s i s t:e x i s t <vblex>	0.6819972991943359
+e x i s t - -:e x i s t <vblex>	0.6818209886550903
+e x i s t e n t:e x i s t <vblex>	0.6794893145561218
+c o - e x i s t:e x i s t <vblex>	0.6733284592628479
+n o n - e x i s t:e x i s t <vblex>	0.6709813475608826
+c u t t i n g:c u t <vblex>	0.787868320941925
+c u t s:c u t <vblex>	0.7673648595809937
+r e - c u t:c u t <vblex>	0.7415383458137512
+c u t t e d:c u t <vblex>	0.7396896481513977
+r e c u t:c u t <vblex>	0.7391886711120605
+s l a s h e d:c u t <vblex>	0.7352425456047058
+o f f c u t:c u t <vblex>	0.7275007963180542
+t r i m m e d:c u t <vblex>	0.7195168137550354
+c u t t i n:c u t <vblex>	0.7167235016822815
+c h o p p e d:c u t <vblex>	0.6959013938903809
+p u l l i n g:p u l l <vblex>	0.8149268627166748
+p u s h:p u l l <vblex>	0.7922889590263367
+p u l l e d:p u l l <vblex>	0.7898642420768738
+p u l l s:p u l l <vblex>	0.7891907095909119
+p u l l i n:p u l l <vblex>	0.7359303832054138
+g r a b:p u l l <vblex>	0.7212822437286377
+s h o v e:p u l l <vblex>	0.7103481888771057
+r i p c o r d:p u l l <vblex>	0.706763505935669
+p u l l y:p u l l <vblex>	0.7002183198928833
+p u l l e r:p u l l <vblex>	0.6956117749214172
+b r i n g i n g:b r i n g <vblex>	0.8336494565010071
+b r o u g h t:b r i n g <vblex>	0.7851822972297668
+b r i n g s:b r i n g <vblex>	0.7564420700073242
+b r i n i n g:b r i n g <vblex>	0.7508370280265808
+b r i n g e:b r i n g <vblex>	0.7474667429924011
+p u t:b r i n g <vblex>	0.7377713918685913
+b r i n g - i n:b r i n g <vblex>	0.7307464480400085
+b r i n g i n:b r i n g <vblex>	0.7296587824821472
+b r i n g - u p:b r i n g <vblex>	0.7248493432998657
+g e t:b r i n g <vblex>	0.7175613045692444
+g i g g l e:l a u g h <vblex>	0.824238657951355
+c h u c k l e:l a u g h <vblex>	0.8123705387115479
+l a u g h -:l a u g h <vblex>	0.7544949054718018
+l a u g h e r:l a u g h <vblex>	0.7443660497665405
+l a u g h t:l a u g h <vblex>	0.742763340473175
+l a u g h i n g:l a u g h <vblex>	0.7405359745025635
+s m i l e:l a u g h <vblex>	0.7313778400421143
+l a u g h s:l a u g h <vblex>	0.730025053024292
+l a u g h t e r:l a u g h <vblex>	0.7297780513763428
+l a u g h .:l a u g h <vblex>	0.7113963961601257
+r e s u r r e c t:r e v i v e <vblex>	0.8475757837295532
+r e i n v i g o r a t e:r e v i v e <vblex>	0.8075370192527771
+r e v i t a l i z e:r e v i v e <vblex>	0.8034493923187256
+r e v i v i f y:r e v i v e <vblex>	0.7990328073501587
+r e v i v e d:r e v i v e <vblex>	0.7899907827377319
+r e j u v e n a t e:r e v i v e <vblex>	0.7828036546707153
+r e - i n v i g o r a t e:r e v i v e <vblex>	0.7627667784690857
+r e v i t a l i s e:r e v i v e <vblex>	0.7583433985710144
+r e v i v i n g:r e v i v e <vblex>	0.7574336528778076
+r e v i v e s:r e v i v e <vblex>	0.7347155213356018
+- m u c h:m u c h <adv>	0.7862929701805115
+l e s s:m u c h <adv>	0.7813425064086914
+m o r e:m u c h <adv>	0.7673274278640747
+l i t t l e:m u c h <adv>	0.7537299394607544
+f a r:m u c h <adv>	0.7333095073699951
+q u i t e:m u c h <adv>	0.7257223129272461
+m u c h n e s s:m u c h <adv>	0.7236546874046326
+m u c h - m u c h:m u c h <adv>	0.7190342545509338
+t o o - m u c h:m u c h <adv>	0.7119513750076294
+o v e r - m u c h:m u c h <adv>	0.7103639245033264
+s e e e:s e e <vblex>	0.7253801822662354
+s e e i n g:s e e <vblex>	0.7126737236976624
+s e e e n:s e e <vblex>	0.7098456621170044
+f i n d:s e e <vblex>	0.7059274315834045
+k n o w:s e e <vblex>	0.6970654726028442
+l o o k:s e e <vblex>	0.6959713697433472
+s e e - - a n d:s e e <vblex>	0.6930655241012573
+s e e n:s e e <vblex>	0.6926324963569641
+t e l l:s e e <vblex>	0.6879337430000305
+h e a r:s e e <vblex>	0.6845276951789856
+d e t a c h i n g:d e t a c h <vblex>	0.758109986782074
+a t t a c h:d e t a c h <vblex>	0.7378749251365662
+d e t a c h e s:d e t a c h <vblex>	0.7344335913658142
+r e - a t t a c h:d e t a c h <vblex>	0.707990825176239
+r e a t t a c h:d e t a c h <vblex>	0.665744423866272
+u n p i n:d e t a c h <vblex>	0.6282893419265747
+d i s l o d g e:d e t a c h <vblex>	0.6196288466453552
+a t t a t c h:d e t a c h <vblex>	0.6128184795379639
+r e p o s i t i o n:d e t a c h <vblex>	0.6016411185264587
+i s o l a t e:d e t a c h <vblex>	0.6012932062149048
+d o g s:d o g <n>	0.8457404971122742
+d o g s -:d o g <n>	0.8105224370956421
+p u p p y:d o g <n>	0.807178258895874
+d o g -:d o g <n>	0.7765815258026123
+d o g .:d o g <n>	0.7731121778488159
+b e a g l e:d o g <n>	0.7728983163833618
+n o n - d o g:d o g <n>	0.7723953723907471
+d o g - o w n e r:d o g <n>	0.7706801295280457
+l a b r a d o r:d o g <n>	0.767481803894043
+s t a f f y:d o g <n>	0.7622039914131165
+s h o r t l y:s o o n <adv>	0.8009093403816223
+s o o n i s h:s o o n <adv>	0.7686945199966431
+e v e n t u a l l y:s o o n <adv>	0.7678670883178711
+q u i c k l y:s o o n <adv>	0.7462213635444641
+i m m e d i a t e l y:s o o n <adv>	0.7304304838180542
+s o o n s:s o o n <adv>	0.7225490212440491
+s o o n - i s h:s o o n <adv>	0.7146352529525757
+h o p e f u l l y:s o o n <adv>	0.7102983593940735
+s o o o n:s o o n <adv>	0.7074186205863953
+s o o n e:s o o n <adv>	0.7052032351493835
+s t a n d:s i t <vblex>	0.6867331862449646
+s i t t i n g:s i t <vblex>	0.6835106611251831
+s i t s:s i t <vblex>	0.6502683162689209
+s i d l e:s i t <vblex>	0.6426103711128235
+s a t:s i t <vblex>	0.6335709095001221
+w a t c h:s i t <vblex>	0.6195774674415588
+g o:s i t <vblex>	0.619182288646698
+w a i t:s i t <vblex>	0.6136839985847473
+t r a i p s e:s i t <vblex>	0.6092170476913452
+k n e e l:s i t <vblex>	0.605030357837677
+g e t t i n g:g e t <vblex>	0.7973085045814514
+g o t:g e t <vblex>	0.7875660061836243
+g e t s:g e t <vblex>	0.7866528034210205
+g e t i n g:g e t <vblex>	0.7597017884254456
+g e t t:g e t <vblex>	0.7585280537605286
+g e t t t i n g:g e t <vblex>	0.7485417127609253
+g o t t e n:g e t <vblex>	0.7415796518325806
+g o:g e t <vblex>	0.7319315075874329
+g e t h e r:g e t <vblex>	0.7313115000724792
+g i v e:g e t <vblex>	0.7234808802604675
+c e r t a i n l y:p r o b a b l y <adv>	0.8602373600006104
+u n d o u b t e d l y:p r o b a b l y <adv>	0.8410000801086426
+d e f i n i t e l y:p r o b a b l y <adv>	0.8386349081993103
+p r o b a b a b l y:p r o b a b l y <adv>	0.8247854709625244
+p r o b a b l l y:p r o b a b l y <adv>	0.8174914717674255
+p r o a b l y:p r o b a b l y <adv>	0.8109902143478394
+p r e s u m a b l y:p r o b a b l y <adv>	0.8001633286476135
+l i k e l y:p r o b a b l y <adv>	0.7986934185028076
+o b v i o u s l y:p r o b a b l y <adv>	0.7974552512168884
+p e r h a p s:p r o b a b l y <adv>	0.7960529327392578
+s w i m m i n g:s w i m <vblex>	0.8053238391876221
+s w i m s:s w i m <vblex>	0.7619328498840332
+s w i m i n g:s w i m <vblex>	0.7513533234596252
+s w a m:s w i m <vblex>	0.7271173596382141
+l e a r n - t o - s w i m:s w i m <vblex>	0.7206764221191406
+s w i m - u p:s w i m <vblex>	0.7020428776741028
+s i n k - o r - s w i m:s w i m <vblex>	0.6684343814849854
+S w i m:s w i m <vblex>	0.6604794263839722
+s w i m m e r s:s w i m <vblex>	0.6523522138595581
+s w i m m i n g - p o o l:s w i m <vblex>	0.6518157720565796
+w a r r i o r s:w a r r i o r <n>	0.8135378360748291
+w a r r i o r - k i n g:w a r r i o r <n>	0.7669826745986938
+w a r r i o r - l i k e:w a r r i o r <n>	0.7559677362442017
+w a r - g o d:w a r r i o r <n>	0.6858283877372742
+w a r r i o r - p o e t:w a r r i o r <n>	0.683527946472168
+h e r o:w a r r i o r <n>	0.6672185659408569
+s o l d i e r:w a r r i o r <n>	0.6586496233940125
+b a t t l e r:w a r r i o r <n>	0.6583383679389954
+w a r - l e a d e r:w a r r i o r <n>	0.6530916690826416
+P O V - w a r r i o r:w a r r i o r <n>	0.6510295867919922
+t h r i c e:t w i c e <adv>	0.8330257534980774
+t w i c e - - o n c e:t w i c e <adv>	0.7812467813491821
+o n c e:t w i c e <adv>	0.7284294962882996
+t w i c e -:t w i c e <adv>	0.7231830358505249
+r e p e a t e d l y:t w i c e <adv>	0.6877084374427795
+a g a i n:t w i c e <adv>	0.6663018465042114
+d o u b l e d:t w i c e <adv>	0.6356856226921082
+t w i c e .:t w i c e <adv>	0.6236098408699036
+T w i c e:t w i c e <adv>	0.6223971843719482
+r e g u l a r l y:t w i c e <adv>	0.621618926525116
