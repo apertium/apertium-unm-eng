@@ -1,0 +1,10 @@
+{
+    "unm-eng": {
+        "input": "unm-eng-input.txt",
+        "mode": "unm-eng"
+    },
+    "eng-unm": {
+        "input": "eng-unm-input.txt",
+        "mode": "eng-unm"
+    }
+}
