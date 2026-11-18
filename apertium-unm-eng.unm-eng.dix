@@ -8,6 +8,7 @@
     <sdef n="n"               c="Noun"/>
     <sdef n="np"              c="Proper noun"/>
     <sdef n="vblex"           c="Verb, lexical"/>
+    <sdef n="v"               c="Verb, lexical"/>
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
     <sdef n="vbser"           c="'To be' verb"/>
@@ -49,9 +50,16 @@
     <sdef n="du"              c="Dual"/>
     <sdef n="pl"              c="Plural"/>
     <sdef n="sp"              c="Singular / plural"/>
+    
+	 <sdef n="iv"              c="Intransitive verb"/>
+	 <sdef n="tv"              c="Transitive verb"/>
+	 <sdef n="aa"              c="Animate"/>
+	 <sdef n="nn"              c="Inanimate"/>
 
     <sdef n="ind"             c="Indefinite"/>
     <sdef n="def"             c="Definite"/>
+    <sdef n="dist"            c="Distal"/>
+    <sdef n="prox"            c="Proximal"/>
 
     <sdef n="nom"             c="Nominative"/>
     <sdef n="acc"             c="Accusative"/>
@@ -97,16 +105,6 @@
 
    <section id="main" type="standard">
 
-<e><l>kati<b/><s n="vaux"/></l><r>almost<s n="vbmod"/></r></e>
-<e><l>kata<b/><s n="vaux"/></l><r>want<b/>to<s n="vbmod"/></r></e>
-<e><l>shinki<b/><s n="vaux"/></l><r>dislike<s n="vbmod"/></r></e>
-<e><l>shinki<b/><s n="vaux"/></l><r>hate<b/>to<s n="vbmod"/></r></e>
-<e><l>alemi<b/><s n="vaux"/></l><r>begin<s n="vbmod"/></r></e>
-<e><l>tala<b/><s n="vaux"/></l><r>cannot<s n="vbmod"/></r></e>
-<e><l>tala<b/><s n="vaux"/></l><r>be<b/>unable<b/>to<s n="vbmod"/></r></e>
-<e><l>kàski<b/><s n="vaux"/></l><r>can<s n="vbmod"/></r></e>
-<e><l>kàski<b/><s n="vaux"/></l><r>be<b/>able<b/>to<s n="vbmod"/></r></e>
-<e><l>kìshi<b/><s n="vaux"/></l><r>finish<s n="vbmod"/></r></e>
 <e><l>ahas<s n="n"/><s n="aa"/></l><r>crow<s n="n"/></r></e>
 <e><l>tëme<s n="n"/><s n="aa"/></l><r>wolf<s n="n"/></r></e>
 <e><l>maxkw<s n="n"/><s n="aa"/></l><r>bear<s n="n"/></r></e>
@@ -432,12 +430,10 @@
 <e><l>nèl<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="pl"/></l><r>that<s n="det"/><s n="dem"/><s n="dist"/><s n="nn"/><s n="pl"/></r></e>
 <e><l>nèk<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="pl"/></l><r>that<s n="det"/><s n="dem"/><s n="dist"/><s n="aa"/><s n="pl"/></r></e>
 <e><l>yu<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg"/></r></e>
-<e><l>yu<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg>+she<adv"/></l><r>this<b/>here<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="sg>+she<adv"/></r></e>
 <e><l>wa<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="sg"/></r></e>
 <e><l>yuli<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="nn"/><s n="pl"/></r></e>
 <e><l>yuki<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></r></e>
 <e><l>yuki<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl"/></r></e>
-<e><l>yuki<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl>+she<adv"/></l><r>these<b/>here<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="pl>+she<adv"/></r></e>
 <e><l>waka<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="abs"/><s n="sg"/></l><r>this<s n="det"/><s n="dem"/><s n="prox"/><s n="aa"/><s n="abs"/><s n="sg"/></r></e>
 <e><l>wèmi<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/></r></e>
 <e><l>wèmi<s n="det"/><s n="qnt"/></l><r>every<s n="det"/><s n="qnt"/></r></e>
@@ -571,6 +567,7 @@
 <e><l>ahikta<s n="ij"/></l><r>oh<b/>yes<s n="ij"/></r></e>
 <e><l>nëpe<s n="ij"/></l><r>all<b/>right<s n="ij"/></r></e>
 <e><l>wanìshi<s n="ij"/></l><r>thank<b/>you<s n="ij"/></r></e>
+
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
