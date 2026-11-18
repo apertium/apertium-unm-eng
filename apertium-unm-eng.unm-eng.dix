@@ -60,6 +60,7 @@
     <sdef n="def"             c="Definite"/>
     <sdef n="dist"            c="Distal"/>
     <sdef n="prox"            c="Proximal"/>
+    <sdef n="abs"             c="Absentative"/>
 
     <sdef n="nom"             c="Nominative"/>
     <sdef n="acc"             c="Accusative"/>
