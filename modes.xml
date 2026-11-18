@@ -86,5 +86,60 @@
       </program>
     </pipeline>
   </mode>
+
+
+  <!-- modes for paradigm dictionary -->
+
+  <mode name="unm-eng-bilsearch">
+    <pipeline>
+      <program name="lt-paradigm --sort">
+        <file name="unm-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="unm-eng-billookup">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="unm-eng.automorf.bin"/>
+      </program>
+      <program name="sed -r 's:\^[^/]+\/:^:g'"/>
+      <program name="sed 's:/:$ ^:g'"/>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="unm-eng.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+    <mode name="eng-unm-bilsearch">
+    <pipeline>
+      <program name="lt-paradigm --sort">
+        <file name="eng-unm.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-unm-billookup">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="eng-unm.automorf.bin"/>
+      </program>
+      <program name="sed -r 's:\^[^/]+\/:^:g'"/>
+      <program name="sed 's:/:$ ^:g'"/>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="eng-unm.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="eng-unm-embeddings">
+    <pipeline>
+      <program name="hfst-proc -W">
+        <file name="eng-unm.embeddings.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
 </modes>
 
